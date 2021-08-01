@@ -8,7 +8,7 @@ I'm Alex, a senior software engineer mainly focused on backend. I code in Java a
 
 😄 Pronouns: He/Him
 
-📫 Connect with me: 
+Connect with me:
 <p>
 <a href="https://www.alexliesenfeld.com"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/alexander-liesenfeld"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
