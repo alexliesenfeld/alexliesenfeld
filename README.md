@@ -2,11 +2,9 @@
 
 I'm Alex, a senior software engineer mainly focused on backend. I code in Java and Go for work and Rust in my spare time.  
 
-☁️ I've specialized in cloud technology. Ask me about [AWS](https://www.credly.com/badges/e089009d-ed19-4048-a3e3-eda4c816d7ea/public_url) and [Kubernetes](https://www.credly.com/badges/42309c07-f199-41a8-870c-db135b38bb24/public_url).
-
-🎶 I'm a self-taught music production enthusiast who likes to code tools to make music with. You can find my latest audio plugin [here](https://pumpstation-plugin.com/).  
-
-😄 Pronouns: He/Him
+- I've specialized in cloud technology. Ask me about [AWS](https://www.credly.com/badges/e089009d-ed19-4048-a3e3-eda4c816d7ea/public_url) and [Kubernetes](https://www.credly.com/badges/42309c07-f199-41a8-870c-db135b38bb24/public_url).
+- I'm a self-taught music production enthusiast who likes to code tools to make music with. You can find my latest audio plugin [here](https://pumpstation-plugin.com/).  
+- Pronouns: He/Him
 
 Connect with me:
 <p>
