@@ -8,10 +8,10 @@ I'm Alex, a senior software engineer mainly focused on backend. I code in Java a
 
 Connect with me:
 <p>
-<a href="https://www.alexliesenfeld.com"><img src="https://img.shields.io/badge/-Website-555555?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.alexliesenfeld.com"><img src="https://img.shields.io/badge/-Website-333333?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/alexander-liesenfeld"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:alexander.liesenfeld@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=mail.ru&logoColor=white"/></a>
-<a href="https://dev.to/alexliesenfeld"><img src="https://img.shields.io/badge/-Blog-1877F2?style=flat&logo=dev.to&logoColor=white"/></a>
-<a href="https://soundcloud.com/alexliesenfeld"><img src="https://img.shields.io/badge/-SoundCloud-E4405F?style=flat&logo=SoundCloud&logoColor=white"/></a>
+<a href="https://dev.to/alexliesenfeld"><img src="https://img.shields.io/badge/-Blog-000000?style=flat&logo=dev.to&logoColor=white"/></a>
+<a href="https://soundcloud.com/alexliesenfeld"><img src="https://img.shields.io/badge/-SoundCloud-FE5000?style=flat&logo=SoundCloud&logoColor=white"/></a>
 </p>
 
