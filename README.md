@@ -10,21 +10,25 @@ Curious what I've been working on recently?
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (2 months ago)
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (5 months ago)
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (7 months ago)
 
 #### 🌱 My latest projects
 
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
 - [alexliesenfeld/async-object-pool](https://github.com/alexliesenfeld/async-object-pool) - A simple object pool implementation that uses asynchronous synchronization primitives only. 
+- [alexliesenfeld/composer](https://github.com/alexliesenfeld/composer) - A productivity tool for iPlug 2 projects.
 
 #### 🔭 Latest releases I've contributed to
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.6](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.6), 2 months ago) - HTTP mocking library for Rust.
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.6.0](https://github.com/alexliesenfeld/health/releases/tag/v0.6.0), 7 months ago) - A simple and flexible health check library for Go.
+- [oasp/oasp4j](https://github.com/oasp/oasp4j) ([release/2.6.1](https://github.com/oasp/oasp4j/releases/tag/release%2F2.6.1), 3 years ago) - The Open Application Standard Platform for Java
 
 #### 🔨 Latest Pull Requests I published
 
 - [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (2 weeks ago)
 - [Add context parameters to validators](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (2 weeks ago)
+- [Merge changes from upstream repository](https://github.com/hipeople/crud/pull/2) on [hipeople/crud](https://github.com/hipeople/crud) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
