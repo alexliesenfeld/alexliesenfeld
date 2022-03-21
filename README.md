@@ -1,70 +1,48 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/muesli/muesli/master/assets/termenv.png" width="260">
+<img align="right" src="https://raw.githubusercontent.com/alexliesenfeld/alexliesenfeld/master/assets/gopher.png" width="260">
 
-I'm Chris, an open-source enthusiast and avid contributor. I'm the author of [duf](https://github.com/muesli/duf),
-[gitty](https://github.com/muesli/gitty), [Beehive](https://github.com/muesli/beehive), [Knoxite](https://github.com/knoxite/knoxite)
- nd a bunch of other [projects](https://fribbledom.com/projects/). Curious what I've been working on recently?
-
-(Love the logo on the right as much as I do? The awesome [Christian Rocha](https://github.com/meowgorithm/) made it!)
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+I'm Chris, a software engineer and an open-source enthusiast. I'm the author of [httpmock](https://github.com/alexliesenfeld/httpmock),
+[PumpStation](http://pumpstation-plugin.com), [health](https://github.com/alexliesenfeld/health). 
+Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (3 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 week ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 weeks ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (3 weeks ago)
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (2 months ago)
+- [alexliesenfeld/blog-code](https://github.com/alexliesenfeld/blog-code) - This repository holds coding examples from my blog. (3 months ago)
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (5 months ago)
 
 #### 🌱 My latest projects
 
-- [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go
-- [muesli/mango-coral](https://github.com/muesli/mango-coral) - coral adapter for mango
-- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango
+- [alexliesenfeld/hp-file-upload](https://github.com/alexliesenfeld/hp-file-upload) - A playground image upload service using Go standard library. 
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
+- [alexliesenfeld/blog-code](https://github.com/alexliesenfeld/blog-code) - This repository holds coding examples from my blog.
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), today) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.3.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.3.0), 2 days ago) - The SSH directory ✨
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-17T20-25-06Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-17T20-25-06Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.2.1](https://github.com/orlangure/gocovsh/releases/tag/v0.2.1), 1 week ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), 2 weeks ago) - The Charm Tool and Library 🌟
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.6](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.6), 2 months ago) - HTTP mocking library for Rust.
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.6.0](https://github.com/alexliesenfeld/health/releases/tag/v0.6.0), 7 months ago) - A simple and flexible health check library for Go.
+- [oasp/oasp4j](https://github.com/oasp/oasp4j) ([release/2.6.1](https://github.com/oasp/oasp4j/releases/tag/release%2F2.6.1), 3 years ago) - The Open Application Standard Platform for Java
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix typos in root README.md](https://github.com/charmbracelet/bubbletea/pull/255) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [ci: update golangci-lint-action to v3](https://github.com/charmbracelet/bubbletea/pull/242) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
-- [ci: update golangci-lint-action to v3](https://github.com/muesli/deckmaster/pull/90) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (3 weeks ago)
-- [add: program.ReleaseTerminal and RestoreTerminal to re-use input &amp; terminal](https://github.com/charmbracelet/bubbletea/pull/237) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 weeks ago)
-- [fix: shims for AIX and Plan9](https://github.com/muesli/termenv/pull/76) on [muesli/termenv](https://github.com/muesli/termenv) (4 weeks ago)
+- [Add context to pass through scope parameters to custom validators](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (2 weeks ago)
+- [Close](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (2 weeks ago)
+- [Merge changes from upstream repository](https://github.com/hipeople/crud/pull/2) on [hipeople/crud](https://github.com/hipeople/crud) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (9 months ago)
-- [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (2 years ago)
-- [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (3 years ago)
-- [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (3 years ago)
-- [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (3 years ago)
+- [CKAD Exercises - Part 2](https://www.alexliesenfeld.com/posts/ckad-excercises-2/) (7 months ago)
+- [CKAD Exercises - Part 1](https://www.alexliesenfeld.com/posts/ckad-excercises-1/) (10 months ago)
+- [Mocking HTTP Services in Rust](https://www.alexliesenfeld.com/posts/mocking-http-services-in-rust/) (2 years ago)
 
 #### ⭐ Recent stars
 
-- [robertkrimen/godocdown](https://github.com/robertkrimen/godocdown) - Format package documentation (godoc) as GitHub friendly Markdown (6 days ago)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 week ago)
-- [ScaleFT/sshkeys](https://github.com/ScaleFT/sshkeys) - sshkeys: utilities for parsing and marshaling OpenSSH Key formats (1 week ago)
-- [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. (2 weeks ago)
-- [astrogewgaw/koshka](https://github.com/astrogewgaw/koshka) - Meow-ster of cat-alogs 🐱 ! (2 weeks ago)
-
-#### ❤️ These awesome people sponsor me (thank you!)
-
-- [twpayne](https://github.com/twpayne) (1 month ago)
-- [nkpremices](https://github.com/nkpremices) (5 months ago)
-- [crazy-max](https://github.com/crazy-max) (6 months ago)
-- [ocelotsloth](https://github.com/ocelotsloth) (9 months ago)
-- [angristan](https://github.com/angristan) (9 months ago)
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (1 week ago)
+- [jtolio/gls](https://github.com/jtolio/gls) - Goroutine local storage (2 weeks ago)
+- [alicanerdogan/gistr](https://github.com/alicanerdogan/gistr) - A cli tool written in rust to download and upload gists from terminal (2 weeks ago)
+- [alicanerdogan/subtle](https://github.com/alicanerdogan/subtle) - a cli application handy to download subtitles (2 weeks ago)
+- [Masterminds/squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generation for golang (1 month ago)
 
 #### 💬 Feedback
 
@@ -73,7 +51,6 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/mueslix
-- Fediverse: https://mastodon.social/@fribbledom
-- Blog: https://fribbledom.com
-- IRC: muesli on Libera
+- Twitter: https://twitter.com/alexliesenfeld
+- LinkedIn: https://www.linkedin.com/in/alexander-liesenfeld
+- Blog: https://www.alexliesenfeld.com
