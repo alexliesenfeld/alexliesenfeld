@@ -9,26 +9,22 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (2 months ago)
-- [alexliesenfeld/blog-code](https://github.com/alexliesenfeld/blog-code) - This repository holds coding examples from my blog. (3 months ago)
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (5 months ago)
 
 #### 🌱 My latest projects
 
-- [alexliesenfeld/hp-file-upload](https://github.com/alexliesenfeld/hp-file-upload) - A playground image upload service using Go standard library. 
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
-- [alexliesenfeld/blog-code](https://github.com/alexliesenfeld/blog-code) - This repository holds coding examples from my blog.
+- [alexliesenfeld/async-object-pool](https://github.com/alexliesenfeld/async-object-pool) - A simple object pool implementation that uses asynchronous synchronization primitives only. 
 
 #### 🔭 Latest releases I've contributed to
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.6](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.6), 2 months ago) - HTTP mocking library for Rust.
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.6.0](https://github.com/alexliesenfeld/health/releases/tag/v0.6.0), 7 months ago) - A simple and flexible health check library for Go.
-- [oasp/oasp4j](https://github.com/oasp/oasp4j) ([release/2.6.1](https://github.com/oasp/oasp4j/releases/tag/release%2F2.6.1), 3 years ago) - The Open Application Standard Platform for Java
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add context to pass through scope parameters to custom validators](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (2 weeks ago)
-- [Close](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (2 weeks ago)
-- [Merge changes from upstream repository](https://github.com/hipeople/crud/pull/2) on [hipeople/crud](https://github.com/hipeople/crud) (3 weeks ago)
+- [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (2 weeks ago)
+- [Add context parameters to validators](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
