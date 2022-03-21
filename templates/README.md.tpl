@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/alexliesenfeld/alexliesenfeld/master/assets/gopher.png" width="260">
 
-I'm Chris, a software engineer and an open-source enthusiast. I'm the author of [httpmock](https://github.com/alexliesenfeld/httpmock),
+I'm Alex, a software engineer and an open-source enthusiast. I'm the author of [httpmock](https://github.com/alexliesenfeld/httpmock),
 [health](https://github.com/alexliesenfeld/health), [PumpStation](http://pumpstation-plugin.com). 
 Curious what I've been working on recently?
 
