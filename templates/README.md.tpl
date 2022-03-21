@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/muesli/muesli/master/assets/gopher.png" width="260">
+<img align="right" src="https://raw.githubusercontent.com/alexliesenfeld/alexliesenfeld/master/assets/gopher.png" width="260">
 
 I'm Chris, a software engineer and an open-source enthusiast. I'm the author of [httpmock](https://github.com/alexliesenfeld/httpmock),
 [PumpStation](http://pumpstation-plugin.com), [health](https://github.com/alexliesenfeld/health). 
