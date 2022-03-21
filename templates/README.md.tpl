@@ -7,27 +7,27 @@ I'm Chris, a software engineer and an open-source enthusiast. I'm the author of 
 Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 3}}
+{{range recentContributions 2}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 3}}
+{{range recentRepos 2}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 3}}
+{{range recentReleases 2}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 #### 🔨 Latest Pull Requests I published
-{{range recentPullRequests 3}}
+{{range recentPullRequests 2}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://www.alexliesenfeld.com/posts/index.xml" 3}}
+{{range rss "https://www.alexliesenfeld.com/posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
