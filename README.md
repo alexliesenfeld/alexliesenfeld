@@ -27,8 +27,8 @@ Curious what I've been working on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (2 weeks ago)
-- [Add context parameters to validators](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (2 weeks ago)
+- [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (3 weeks ago)
+- [Add context parameters to validators](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (3 weeks ago)
 - [Merge changes from upstream repository](https://github.com/hipeople/crud/pull/2) on [hipeople/crud](https://github.com/hipeople/crud) (3 weeks ago)
 
 #### 📜 My recent blog posts
@@ -39,11 +39,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (today)
-- [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C&#43;&#43; library (today)
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (1 day ago)
+- [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C&#43;&#43; library (1 day ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (1 week ago)
-- [jtolio/gls](https://github.com/jtolio/gls) - Goroutine local storage (2 weeks ago)
-- [alicanerdogan/gistr](https://github.com/alicanerdogan/gistr) - A cli tool written in rust to download and upload gists from terminal (2 weeks ago)
+- [jtolio/gls](https://github.com/jtolio/gls) - Goroutine local storage (3 weeks ago)
+- [alicanerdogan/gistr](https://github.com/alicanerdogan/gistr) - A cli tool written in rust to download and upload gists from terminal (3 weeks ago)
 
 #### 💬 Feedback
 
