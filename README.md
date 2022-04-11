@@ -21,7 +21,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.6](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.6), 2 months ago) - HTTP mocking library for Rust.
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.6](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.6), 3 months ago) - HTTP mocking library for Rust.
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.6.0](https://github.com/alexliesenfeld/health/releases/tag/v0.6.0), 8 months ago) - A simple and flexible health check library for Go.
 - [oasp/oasp4j](https://github.com/oasp/oasp4j) ([release/2.6.1](https://github.com/oasp/oasp4j/releases/tag/release%2F2.6.1), 3 years ago) - The Open Application Standard Platform for Java
 
@@ -34,14 +34,14 @@ Curious what I've been working on recently?
 #### 📜 My recent blog posts
 
 - [CKAD Exercises - Part 2](https://www.alexliesenfeld.com/posts/ckad-excercises-2/) (8 months ago)
-- [CKAD Exercises - Part 1](https://www.alexliesenfeld.com/posts/ckad-excercises-1/) (10 months ago)
+- [CKAD Exercises - Part 1](https://www.alexliesenfeld.com/posts/ckad-excercises-1/) (11 months ago)
 - [Mocking HTTP Services in Rust](https://www.alexliesenfeld.com/posts/mocking-http-services-in-rust/) (2 years ago)
 
 #### ⭐ Recent stars
 
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (2 weeks ago)
 - [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C&#43;&#43; library (2 weeks ago)
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (4 weeks ago)
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (1 month ago)
 - [jtolio/gls](https://github.com/jtolio/gls) - Goroutine local storage (1 month ago)
 - [alicanerdogan/gistr](https://github.com/alicanerdogan/gistr) - A cli tool written in rust to download and upload gists from terminal (1 month ago)
 
