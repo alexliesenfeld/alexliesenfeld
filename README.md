@@ -9,7 +9,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (3 weeks ago)
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (4 weeks ago)
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (6 months ago)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (8 months ago)
 
@@ -39,8 +39,8 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (4 weeks ago)
-- [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C&#43;&#43; library (4 weeks ago)
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (1 month ago)
+- [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C&#43;&#43; library (1 month ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (1 month ago)
 - [jtolio/gls](https://github.com/jtolio/gls) - Goroutine local storage (1 month ago)
 - [alicanerdogan/gistr](https://github.com/alicanerdogan/gistr) - A cli tool written in rust to download and upload gists from terminal (1 month ago)
