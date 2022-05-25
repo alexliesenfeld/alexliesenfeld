@@ -11,7 +11,7 @@ Curious what I've been working on recently?
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (2 months ago)
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (7 months ago)
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (9 months ago)
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -39,7 +39,7 @@ Curious what I've been working on recently?
 #### ⭐ Recent stars
 
 - [ralfstuckert/pdfbox-layout](https://github.com/ralfstuckert/pdfbox-layout) (2 weeks ago)
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (3 weeks ago)
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (4 weeks ago)
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (2 months ago)
 - [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C&#43;&#43; library (2 months ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (2 months ago)
