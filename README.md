@@ -28,11 +28,11 @@ Curious what I've been working on recently?
 
 - [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (2 months ago)
 - [Add context parameters to validators](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (2 months ago)
-- [Merge changes from upstream repository](https://github.com/hipeople/crud/pull/2) on [hipeople/crud](https://github.com/hipeople/crud) (2 months ago)
+- [Merge changes from upstream repository](https://github.com/hipeople/crud/pull/2) on [hipeople/crud](https://github.com/hipeople/crud) (3 months ago)
 
 #### 📜 My recent blog posts
 
-- [CKAD Exercises - Part 2](https://www.alexliesenfeld.com/posts/ckad-excercises-2/) (9 months ago)
+- [CKAD Exercises - Part 2](https://www.alexliesenfeld.com/posts/ckad-excercises-2/) (10 months ago)
 - [CKAD Exercises - Part 1](https://www.alexliesenfeld.com/posts/ckad-excercises-1/) (1 year ago)
 - [Mocking HTTP Services in Rust](https://www.alexliesenfeld.com/posts/mocking-http-services-in-rust/) (2 years ago)
 
