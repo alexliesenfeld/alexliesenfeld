@@ -38,11 +38,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [sec51/twofactor](https://github.com/sec51/twofactor) - Golang two factor authentication library (today)
 - [fate83/spoonking](https://github.com/fate83/spoonking) - small game to dig in sand and find stuff  (1 day ago)
 - [ralfstuckert/pdfbox-layout](https://github.com/ralfstuckert/pdfbox-layout) (1 month ago)
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (1 month ago)
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (3 months ago)
-- [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C&#43;&#43; library (3 months ago)
 
 #### 💬 Feedback
 
