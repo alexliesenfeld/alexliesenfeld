@@ -26,8 +26,8 @@ Curious what I've been working on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (3 months ago)
-- [Add context parameters to validators](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (3 months ago)
+- [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (4 months ago)
+- [Add context parameters to validators](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (4 months ago)
 - [Merge changes from upstream repository](https://github.com/hipeople/crud/pull/2) on [hipeople/crud](https://github.com/hipeople/crud) (4 months ago)
 
 #### 📜 My recent blog posts
@@ -38,7 +38,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [sec51/twofactor](https://github.com/sec51/twofactor) - Golang two factor authentication library (6 days ago)
+- [sec51/twofactor](https://github.com/sec51/twofactor) - Golang two factor authentication library (1 week ago)
 - [fate83/spoonking](https://github.com/fate83/spoonking) - small game to dig in sand and find stuff  (1 week ago)
 - [ralfstuckert/pdfbox-layout](https://github.com/ralfstuckert/pdfbox-layout) (1 month ago)
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (2 months ago)
