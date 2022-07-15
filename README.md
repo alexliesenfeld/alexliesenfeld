@@ -38,7 +38,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [sec51/twofactor](https://github.com/sec51/twofactor) - Golang two factor authentication library (2 weeks ago)
+- [sec51/twofactor](https://github.com/sec51/twofactor) - Golang two factor authentication library (3 weeks ago)
 - [fate83/spoonking](https://github.com/fate83/spoonking) - small game to dig in sand and find stuff  (3 weeks ago)
 - [ralfstuckert/pdfbox-layout](https://github.com/ralfstuckert/pdfbox-layout) (2 months ago)
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (2 months ago)
