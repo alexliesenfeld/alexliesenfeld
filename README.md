@@ -38,11 +38,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go (today)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (today)
 - [sec51/twofactor](https://github.com/sec51/twofactor) - Golang two factor authentication library (4 weeks ago)
 - [fate83/spoonking](https://github.com/fate83/spoonking) - small game to dig in sand and find stuff  (4 weeks ago)
 - [ralfstuckert/pdfbox-layout](https://github.com/ralfstuckert/pdfbox-layout) (2 months ago)
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go (2 months ago)
 
 #### 💬 Feedback
 
