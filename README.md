@@ -11,7 +11,7 @@ Curious what I've been working on recently?
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (4 months ago)
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (9 months ago)
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (11 months ago)
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -38,9 +38,9 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go (1 day ago)
-- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (1 day ago)
-- [sec51/twofactor](https://github.com/sec51/twofactor) - Golang two factor authentication library (4 weeks ago)
+- [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go (2 days ago)
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (2 days ago)
+- [sec51/twofactor](https://github.com/sec51/twofactor) - Golang two factor authentication library (1 month ago)
 - [fate83/spoonking](https://github.com/fate83/spoonking) - small game to dig in sand and find stuff  (1 month ago)
 - [ralfstuckert/pdfbox-layout](https://github.com/ralfstuckert/pdfbox-layout) (2 months ago)
 
