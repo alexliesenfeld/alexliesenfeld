@@ -28,18 +28,18 @@ Curious what I've been working on recently?
 
 - [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (4 months ago)
 - [Add context parameters to validators](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (4 months ago)
-- [Merge changes from upstream repository](https://github.com/hipeople/crud/pull/2) on [hipeople/crud](https://github.com/hipeople/crud) (4 months ago)
+- [Merge changes from upstream repository](https://github.com/hipeople/crud/pull/2) on [hipeople/crud](https://github.com/hipeople/crud) (5 months ago)
 
 #### 📜 My recent blog posts
 
-- [CKAD Exercises - Part 2](https://www.alexliesenfeld.com/posts/ckad-excercises-2/) (11 months ago)
+- [CKAD Exercises - Part 2](https://www.alexliesenfeld.com/posts/ckad-excercises-2/) (1 year ago)
 - [CKAD Exercises - Part 1](https://www.alexliesenfeld.com/posts/ckad-excercises-1/) (1 year ago)
 - [Mocking HTTP Services in Rust](https://www.alexliesenfeld.com/posts/mocking-http-services-in-rust/) (2 years ago)
 
 #### ⭐ Recent stars
 
-- [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go (5 days ago)
-- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (5 days ago)
+- [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go (6 days ago)
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (6 days ago)
 - [sec51/twofactor](https://github.com/sec51/twofactor) - Golang two factor authentication library (1 month ago)
 - [fate83/spoonking](https://github.com/fate83/spoonking) - small game to dig in sand and find stuff  (1 month ago)
 - [ralfstuckert/pdfbox-layout](https://github.com/ralfstuckert/pdfbox-layout) (2 months ago)
