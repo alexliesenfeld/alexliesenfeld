@@ -26,8 +26,8 @@ Curious what I've been working on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (4 months ago)
-- [Add context parameters to validators](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (4 months ago)
+- [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (5 months ago)
+- [Add context parameters to validators](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (5 months ago)
 - [Merge changes from upstream repository](https://github.com/hipeople/crud/pull/2) on [hipeople/crud](https://github.com/hipeople/crud) (5 months ago)
 
 #### 📜 My recent blog posts
@@ -38,7 +38,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi) - Library for OpenAPI 3 with spring-boot (today)
+- [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi) - Library for OpenAPI 3 with spring-boot (1 day ago)
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go (1 week ago)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (1 week ago)
 - [sec51/twofactor](https://github.com/sec51/twofactor) - Golang two factor authentication library (1 month ago)
