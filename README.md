@@ -38,11 +38,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [auth0/go-jwt-middleware](https://github.com/auth0/go-jwt-middleware) - A Middleware for Go Programming Language to check for JWTs on HTTP requests (today)
 - [Nerzal/gocloak](https://github.com/Nerzal/gocloak) - golang keycloak client (today)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go (3 days ago)
 - [speps/go-hashids](https://github.com/speps/go-hashids) - Go (golang) implementation of http://www.hashids.org (3 days ago)
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (4 days ago)
-- [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more (4 days ago)
 
 #### 💬 Feedback
 
