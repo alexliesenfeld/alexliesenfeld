@@ -38,7 +38,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [auth0/go-jwt-middleware](https://github.com/auth0/go-jwt-middleware) - A Middleware for Go Programming Language to check for JWTs on HTTP requests (4 days ago)
+- [auth0/go-jwt-middleware](https://github.com/auth0/go-jwt-middleware) - A Middleware for Go Programming Language to check for JWTs on HTTP requests (5 days ago)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go (1 week ago)
 - [speps/go-hashids](https://github.com/speps/go-hashids) - Go (golang) implementation of http://www.hashids.org (1 week ago)
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (1 week ago)
