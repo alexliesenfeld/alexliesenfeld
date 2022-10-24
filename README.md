@@ -9,7 +9,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (1 week ago)
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (2 weeks ago)
 - [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (1 month ago)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (2 months ago)
 
@@ -38,7 +38,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [PureStake/moonbeam](https://github.com/PureStake/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot (1 day ago)
+- [PureStake/moonbeam](https://github.com/PureStake/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot (2 days ago)
 - [auth0/go-jwt-middleware](https://github.com/auth0/go-jwt-middleware) - A Middleware for Go Programming Language to check for JWTs on HTTP requests (2 weeks ago)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go (3 weeks ago)
 - [speps/go-hashids](https://github.com/speps/go-hashids) - Go (golang) implementation of http://www.hashids.org (3 weeks ago)
