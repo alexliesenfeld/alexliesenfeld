@@ -38,11 +38,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [sentriz/go-filelock](https://github.com/sentriz/go-filelock) (today)
 - [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang (today)
 - [PureStake/moonbeam](https://github.com/PureStake/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot (2 days ago)
 - [auth0/go-jwt-middleware](https://github.com/auth0/go-jwt-middleware) - A Middleware for Go Programming Language to check for JWTs on HTTP requests (2 weeks ago)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go (3 weeks ago)
-- [speps/go-hashids](https://github.com/speps/go-hashids) - Go (golang) implementation of http://www.hashids.org (3 weeks ago)
 
 #### 💬 Feedback
 
