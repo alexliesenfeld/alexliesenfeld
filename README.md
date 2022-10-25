@@ -9,7 +9,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (today)
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (1 day ago)
 - [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (1 month ago)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (2 months ago)
 
@@ -21,7 +21,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.7.0-beta.1](https://github.com/alexliesenfeld/health/releases/tag/v0.7.0-beta.1), today) - A simple and flexible health check library for Go.
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.7.0-beta.1](https://github.com/alexliesenfeld/health/releases/tag/v0.7.0-beta.1), 1 day ago) - A simple and flexible health check library for Go.
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.6](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.6), 9 months ago) - HTTP mocking library for Rust.
 
 #### 🔨 Latest Pull Requests I published
@@ -38,9 +38,9 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [sentriz/go-filelock](https://github.com/sentriz/go-filelock) (today)
-- [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang (today)
-- [PureStake/moonbeam](https://github.com/PureStake/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot (2 days ago)
+- [sentriz/go-filelock](https://github.com/sentriz/go-filelock) (1 day ago)
+- [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang (1 day ago)
+- [PureStake/moonbeam](https://github.com/PureStake/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot (3 days ago)
 - [auth0/go-jwt-middleware](https://github.com/auth0/go-jwt-middleware) - A Middleware for Go Programming Language to check for JWTs on HTTP requests (2 weeks ago)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go (3 weeks ago)
 
