@@ -38,11 +38,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [chickenzord/go-health-prometheus](https://github.com/chickenzord/go-health-prometheus) - Go library for integrating alexliesenfeld/health with Prometheus (today)
 - [sentriz/go-filelock](https://github.com/sentriz/go-filelock) (6 days ago)
 - [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang (6 days ago)
 - [PureStake/moonbeam](https://github.com/PureStake/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot (1 week ago)
 - [auth0/go-jwt-middleware](https://github.com/auth0/go-jwt-middleware) - A Middleware for Go Programming Language to check for JWTs on HTTP requests (3 weeks ago)
-- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (4 weeks ago)
 
 #### 💬 Feedback
 
