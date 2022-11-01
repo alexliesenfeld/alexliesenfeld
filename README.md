@@ -32,9 +32,9 @@ Curious what I've been working on recently?
 
 #### 📜 My recent blog posts
 
-- [CKAD Exercises - Part 2](https://www.alexliesenfeld.com/posts/ckad-excercises-2/) (1 year ago)
-- [CKAD Exercises - Part 1](https://www.alexliesenfeld.com/posts/ckad-excercises-1/) (1 year ago)
-- [Mocking HTTP Services in Rust](https://www.alexliesenfeld.com/posts/mocking-http-services-in-rust/) (2 years ago)
+- [CKAD Exercises - Part 2](https://alexliesenfeld.github.io/posts/ckad-excercises-2/) (1 year ago)
+- [CKAD Exercises - Part 1](https://alexliesenfeld.github.io/posts/ckad-excercises-1/) (1 year ago)
+- [Mocking HTTP Services in Rust](https://alexliesenfeld.github.io/posts/mocking-http--services-in-rust/) (2 years ago)
 
 #### ⭐ Recent stars
 
