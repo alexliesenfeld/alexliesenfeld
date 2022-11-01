@@ -28,7 +28,7 @@ Curious what I've been working on recently?
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://www.alexliesenfeld.com/posts/index.xml" 5}}
+{{range rss "https://alexliesenfeld.github.io/posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
