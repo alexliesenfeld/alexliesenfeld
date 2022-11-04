@@ -38,8 +38,8 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [mileusna/useragent](https://github.com/mileusna/useragent) - Go/Golang parser for user agent strings (today)
-- [chickenzord/go-health-prometheus](https://github.com/chickenzord/go-health-prometheus) - Go library for integrating alexliesenfeld/health with Prometheus (4 days ago)
+- [mileusna/useragent](https://github.com/mileusna/useragent) - Go/Golang parser for user agent strings (1 day ago)
+- [chickenzord/go-health-prometheus](https://github.com/chickenzord/go-health-prometheus) - Go library for integrating alexliesenfeld/health with Prometheus (5 days ago)
 - [sentriz/go-filelock](https://github.com/sentriz/go-filelock) (1 week ago)
 - [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang (1 week ago)
 - [PureStake/moonbeam](https://github.com/PureStake/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot (1 week ago)
