@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 #### 🔭 Latest releases I've contributed to
 
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.7.0-beta.2](https://github.com/alexliesenfeld/health/releases/tag/v0.7.0-beta.2), 1 week ago) - A simple and flexible health check library for Go.
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.6](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.6), 9 months ago) - HTTP mocking library for Rust.
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.6](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.6), 10 months ago) - HTTP mocking library for Rust.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -33,15 +33,15 @@ Curious what I've been working on recently?
 #### 📜 My recent blog posts
 
 - [CKAD Exercises - Part 2](https://alexliesenfeld.github.io/posts/ckad-excercises-2/) (1 year ago)
-- [CKAD Exercises - Part 1](https://alexliesenfeld.github.io/posts/ckad-excercises-1/) (1 year ago)
+- [CKAD Exercises - Part 1](https://alexliesenfeld.github.io/posts/ckad-excercises-1/) (2 years ago)
 - [Mocking HTTP Services in Rust](https://alexliesenfeld.github.io/posts/mocking-http--services-in-rust/) (2 years ago)
 
 #### ⭐ Recent stars
 
-- [mileusna/useragent](https://github.com/mileusna/useragent) - Go/Golang parser for user agent strings (3 days ago)
+- [mileusna/useragent](https://github.com/mileusna/useragent) - Go/Golang parser for user agent strings (4 days ago)
 - [chickenzord/go-health-prometheus](https://github.com/chickenzord/go-health-prometheus) - Go library for integrating alexliesenfeld/health with Prometheus (1 week ago)
-- [sentriz/go-filelock](https://github.com/sentriz/go-filelock) (1 week ago)
-- [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang (1 week ago)
+- [sentriz/go-filelock](https://github.com/sentriz/go-filelock) (2 weeks ago)
+- [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang (2 weeks ago)
 - [PureStake/moonbeam](https://github.com/PureStake/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot (2 weeks ago)
 
 #### 💬 Feedback
