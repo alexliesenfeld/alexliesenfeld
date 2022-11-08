@@ -38,11 +38,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [src-d/proteus](https://github.com/src-d/proteus) - Generate .proto files from Go source code. (today)
+- [gzuidhof/tygo](https://github.com/gzuidhof/tygo) - Generate Typescript types from Golang source code (today)
 - [jonbodner/proteus](https://github.com/jonbodner/proteus) - A simple tool for generating an application&#39;s data access layer. (1 day ago)
 - [mileusna/useragent](https://github.com/mileusna/useragent) - Go/Golang parser for user agent strings (5 days ago)
 - [chickenzord/go-health-prometheus](https://github.com/chickenzord/go-health-prometheus) - Go library for integrating alexliesenfeld/health with Prometheus (1 week ago)
-- [sentriz/go-filelock](https://github.com/sentriz/go-filelock) (2 weeks ago)
-- [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang (2 weeks ago)
 
 #### 💬 Feedback
 
