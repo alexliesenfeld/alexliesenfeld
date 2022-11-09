@@ -9,7 +9,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (1 week ago)
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (2 weeks ago)
 - [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (1 month ago)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (2 months ago)
 
@@ -21,7 +21,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.7.0-beta.2](https://github.com/alexliesenfeld/health/releases/tag/v0.7.0-beta.2), 1 week ago) - A simple and flexible health check library for Go.
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.7.0-beta.2](https://github.com/alexliesenfeld/health/releases/tag/v0.7.0-beta.2), 2 weeks ago) - A simple and flexible health check library for Go.
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.6](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.6), 10 months ago) - HTTP mocking library for Rust.
 
 #### 🔨 Latest Pull Requests I published
@@ -38,11 +38,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [mailchain/mailchain](https://github.com/mailchain/mailchain) - Using Mailchain, blockchain users can now send and receive rich-media HTML messages with attachments via a blockchain address. (today)
-- [src-d/proteus](https://github.com/src-d/proteus) - Generate .proto files from Go source code. (today)
-- [gzuidhof/tygo](https://github.com/gzuidhof/tygo) - Generate Typescript types from Golang source code (today)
-- [jonbodner/proteus](https://github.com/jonbodner/proteus) - A simple tool for generating an application&#39;s data access layer. (1 day ago)
-- [mileusna/useragent](https://github.com/mileusna/useragent) - Go/Golang parser for user agent strings (5 days ago)
+- [mailchain/mailchain](https://github.com/mailchain/mailchain) - Using Mailchain, blockchain users can now send and receive rich-media HTML messages with attachments via a blockchain address. (1 day ago)
+- [src-d/proteus](https://github.com/src-d/proteus) - Generate .proto files from Go source code. (1 day ago)
+- [gzuidhof/tygo](https://github.com/gzuidhof/tygo) - Generate Typescript types from Golang source code (1 day ago)
+- [jonbodner/proteus](https://github.com/jonbodner/proteus) - A simple tool for generating an application&#39;s data access layer. (2 days ago)
+- [mileusna/useragent](https://github.com/mileusna/useragent) - Go/Golang parser for user agent strings (6 days ago)
 
 #### 💬 Feedback
 
