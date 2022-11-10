@@ -38,11 +38,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) - Go SDK library for the Solana Blockchain (today)
-- [mailchain/mailchain](https://github.com/mailchain/mailchain) - Using Mailchain, blockchain users can now send and receive rich-media HTML messages with attachments via a blockchain address. (1 day ago)
-- [src-d/proteus](https://github.com/src-d/proteus) - Generate .proto files from Go source code. (1 day ago)
-- [gzuidhof/tygo](https://github.com/gzuidhof/tygo) - Generate Typescript types from Golang source code (1 day ago)
-- [jonbodner/proteus](https://github.com/jonbodner/proteus) - A simple tool for generating an application&#39;s data access layer. (2 days ago)
+- [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) - Go SDK library for the Solana Blockchain (1 day ago)
+- [mailchain/mailchain](https://github.com/mailchain/mailchain) - Using Mailchain, blockchain users can now send and receive rich-media HTML messages with attachments via a blockchain address. (2 days ago)
+- [src-d/proteus](https://github.com/src-d/proteus) - Generate .proto files from Go source code. (2 days ago)
+- [gzuidhof/tygo](https://github.com/gzuidhof/tygo) - Generate Typescript types from Golang source code (2 days ago)
+- [jonbodner/proteus](https://github.com/jonbodner/proteus) - A simple tool for generating an application&#39;s data access layer. (3 days ago)
 
 #### 💬 Feedback
 
