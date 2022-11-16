@@ -38,11 +38,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK (today)
 - [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) - Go SDK library for the Solana Blockchain (1 week ago)
 - [mailchain/mailchain](https://github.com/mailchain/mailchain) - Using Mailchain, blockchain users can now send and receive rich-media HTML messages with attachments via a blockchain address. (1 week ago)
 - [src-d/proteus](https://github.com/src-d/proteus) - Generate .proto files from Go source code. (1 week ago)
 - [gzuidhof/tygo](https://github.com/gzuidhof/tygo) - Generate Typescript types from Golang source code (1 week ago)
-- [jonbodner/proteus](https://github.com/jonbodner/proteus) - A simple tool for generating an application&#39;s data access layer. (1 week ago)
 
 #### 💬 Feedback
 
