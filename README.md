@@ -57,6 +57,6 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 
 #### 🤑 How to support
 
-- ₿ Bitcoin: bc1qatd53dpv23vwrtep3aa2st75ex98v8qqc4spdn
-- Ξ Ethereum: 0xb795579Dac7dBfb1Ac028a2866cE1d5E93213b7F
-- 🌕 Solana: AT2V8PrgcTjuMKLgjmndY8d3dPgZRdLV1JxWLPYBhSJd
+- Bitcoin: bc1qatd53dpv23vwrtep3aa2st75ex98v8qqc4spdn
+- Ethereum: 0xb795579Dac7dBfb1Ac028a2866cE1d5E93213b7F
+- Solana: AT2V8PrgcTjuMKLgjmndY8d3dPgZRdLV1JxWLPYBhSJd
