@@ -55,6 +55,7 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 - LinkedIn: https://www.linkedin.com/in/alexander-liesenfeld
 - Blog: https://www.alexliesenfeld.com
 
+#### 🤑 How to support
 
 - ₿ Bitcoin: bc1qatd53dpv23vwrtep3aa2st75ex98v8qqc4spdn
 - Ξ Ethereum: 0xb795579Dac7dBfb1Ac028a2866cE1d5E93213b7F
