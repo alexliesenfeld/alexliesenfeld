@@ -54,3 +54,8 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 - Twitter: https://twitter.com/alexliesenfeld
 - LinkedIn: https://www.linkedin.com/in/alexander-liesenfeld
 - Blog: https://www.alexliesenfeld.com
+
+#### 🤑 How to support
+
+- Ethereum: 0xb795579Dac7dBfb1Ac028a2866cE1d5E93213b7F
+- Solana: AT2V8PrgcTjuMKLgjmndY8d3dPgZRdLV1JxWLPYBhSJd 
