@@ -38,11 +38,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [wighawag/hardhat-deploy](https://github.com/wighawag/hardhat-deploy) - hardhat deployment plugin (today)
 - [sagebind/isahc](https://github.com/sagebind/isahc) - The practical HTTP client that is fun to use. (3 days ago)
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK (1 week ago)
 - [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) - Go SDK library for the Solana Blockchain (2 weeks ago)
 - [mailchain/mailchain](https://github.com/mailchain/mailchain) - Using Mailchain, blockchain users can now send and receive rich-media HTML messages with attachments via a blockchain address. (2 weeks ago)
-- [src-d/proteus](https://github.com/src-d/proteus) - Generate .proto files from Go source code. (2 weeks ago)
 
 #### 💬 Feedback
 
