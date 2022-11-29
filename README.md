@@ -9,8 +9,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (6 days ago)
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (6 days ago)
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (1 week ago)
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (1 week ago)
 - [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (2 months ago)
 
 #### 🌱 My latest projects
@@ -38,9 +38,9 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript &amp; JavaScript (ES6, ES7, ES8) 🚀 (1 day ago)
-- [wighawag/hardhat-deploy](https://github.com/wighawag/hardhat-deploy) - hardhat deployment plugin (3 days ago)
-- [sagebind/isahc](https://github.com/sagebind/isahc) - The practical HTTP client that is fun to use. (6 days ago)
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript &amp; JavaScript (ES6, ES7, ES8) 🚀 (2 days ago)
+- [wighawag/hardhat-deploy](https://github.com/wighawag/hardhat-deploy) - hardhat deployment plugin (4 days ago)
+- [sagebind/isahc](https://github.com/sagebind/isahc) - The practical HTTP client that is fun to use. (1 week ago)
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK (1 week ago)
 - [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) - Go SDK library for the Solana Blockchain (2 weeks ago)
 
