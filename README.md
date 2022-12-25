@@ -22,13 +22,13 @@ Curious what I've been working on recently?
 #### 🔭 Latest releases I've contributed to
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.7](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.7), 1 month ago) - HTTP mocking library for Rust.
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.7.0-beta.2](https://github.com/alexliesenfeld/health/releases/tag/v0.7.0-beta.2), 1 month ago) - A simple and flexible health check library for Go.
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.7.0-beta.2](https://github.com/alexliesenfeld/health/releases/tag/v0.7.0-beta.2), 2 months ago) - A simple and flexible health check library for Go.
 
 #### 🔨 Latest Pull Requests I published
 
 - [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (9 months ago)
 - [Add context parameters to validators](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (9 months ago)
-- [Merge changes from upstream repository](https://github.com/hipeople/crud/pull/2) on [hipeople/crud](https://github.com/hipeople/crud) (9 months ago)
+- [Merge changes from upstream repository](https://github.com/hipeople/crud/pull/2) on [hipeople/crud](https://github.com/hipeople/crud) (10 months ago)
 
 #### 📜 My recent blog posts
 
@@ -38,8 +38,8 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript &amp; JavaScript (ES6, ES7, ES8) 🚀 (3 weeks ago)
-- [wighawag/hardhat-deploy](https://github.com/wighawag/hardhat-deploy) - hardhat deployment plugin (4 weeks ago)
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript &amp; JavaScript (ES6, ES7, ES8) 🚀 (4 weeks ago)
+- [wighawag/hardhat-deploy](https://github.com/wighawag/hardhat-deploy) - hardhat deployment plugin (1 month ago)
 - [sagebind/isahc](https://github.com/sagebind/isahc) - The practical HTTP client that is fun to use. (1 month ago)
 - [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK (1 month ago)
 - [gagliardetto/solana-go](https://github.com/gagliardetto/solana-go) - Go SDK library for the Solana Blockchain (1 month ago)
