@@ -9,7 +9,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (1 month ago)
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (today)
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (1 month ago)
 - [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (3 months ago)
 
@@ -54,8 +54,3 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 - Twitter: https://twitter.com/alexliesenfeld
 - LinkedIn: https://www.linkedin.com/in/alexander-liesenfeld
 - Blog: https://www.alexliesenfeld.com
-
-#### 🤑 How to support
-
-- Bitcoin: bc1qatd53dpv23vwrtep3aa2st75ex98v8qqc4spdn
-- Ethereum: 0xb795579Dac7dBfb1Ac028a2866cE1d5E93213b7F
