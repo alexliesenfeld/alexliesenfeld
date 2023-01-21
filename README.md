@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/alexliesenfeld/alexliesenfeld/master/assets/gopher.png" width="280">
+<img align="right" src="https://raw.githubusercontent.com/alexliesenfeld/alexliesenfeld/master/assets/gopher.png" width="300">
 
 I'm Alex, a software engineer working on backend with Go, previously Java, while also learning Rust.
 I'm an open-source enthusiast and the author of [httpmock](https://github.com/alexliesenfeld/httpmock),
