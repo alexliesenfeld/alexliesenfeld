@@ -54,4 +54,3 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 - Twitter: https://twitter.com/alexliesenfeld
 - LinkedIn: https://www.linkedin.com/in/alexander-liesenfeld
 - Blog: https://www.alexliesenfeld.com
-
