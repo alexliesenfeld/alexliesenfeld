@@ -7,7 +7,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (2 weeks ago)
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (today)
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (2 months ago)
 - [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (4 months ago)
 
@@ -24,9 +24,9 @@ Curious what I've been working on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [add support for rustls](https://github.com/alexliesenfeld/httpmock/pull/72) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (today)
+- [Revert &#34;build: add support for rustls&#34;](https://github.com/alexliesenfeld/httpmock/pull/71) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (today)
 - [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (10 months ago)
-- [Add context parameters to validators](https://github.com/asaskevich/govalidator/pull/473) on [asaskevich/govalidator](https://github.com/asaskevich/govalidator) (10 months ago)
-- [Merge changes from upstream repository](https://github.com/hipeople/crud/pull/2) on [hipeople/crud](https://github.com/hipeople/crud) (11 months ago)
 
 #### 📜 My recent blog posts
 
