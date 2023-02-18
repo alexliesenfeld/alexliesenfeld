@@ -36,11 +36,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (today)
 - [xeipuuv/gojsonschema](https://github.com/xeipuuv/gojsonschema) - An implementation of JSON Schema, draft v4 v6 &amp; v7 - Go language (3 days ago)
 - [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. (2 weeks ago)
 - [mailgun/groupcache](https://github.com/mailgun/groupcache) - Clone of golang/groupcache with TTL and Item Removal support (2 weeks ago)
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript &amp; JavaScript (ES6, ES7, ES8) 🚀 (2 months ago)
-- [wighawag/hardhat-deploy](https://github.com/wighawag/hardhat-deploy) - hardhat deployment plugin (2 months ago)
 
 #### 💬 Feedback
 
