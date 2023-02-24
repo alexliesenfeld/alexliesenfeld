@@ -36,11 +36,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [FuelLabs/fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM. (today)
-- [javorszky/go-responsewriter-lint](https://github.com/javorszky/go-responsewriter-lint) (2 days ago)
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (5 days ago)
-- [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in golang (5 days ago)
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (5 days ago)
+- [FuelLabs/fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM. (1 day ago)
+- [javorszky/go-responsewriter-lint](https://github.com/javorszky/go-responsewriter-lint) (3 days ago)
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (6 days ago)
+- [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in golang (6 days ago)
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (6 days ago)
 
 #### 💬 Feedback
 
