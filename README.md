@@ -26,7 +26,7 @@ Curious what I've been working on recently?
 
 - [add support for rustls](https://github.com/alexliesenfeld/httpmock/pull/72) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (1 month ago)
 - [Revert &#34;build: add support for rustls&#34;](https://github.com/alexliesenfeld/httpmock/pull/71) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (1 month ago)
-- [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (11 months ago)
+- [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (1 year ago)
 
 #### 📜 My recent blog posts
 
@@ -36,8 +36,8 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [FuelLabs/fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM. (2 days ago)
-- [javorszky/go-responsewriter-lint](https://github.com/javorszky/go-responsewriter-lint) (4 days ago)
+- [FuelLabs/fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM. (3 days ago)
+- [javorszky/go-responsewriter-lint](https://github.com/javorszky/go-responsewriter-lint) (5 days ago)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (1 week ago)
 - [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in golang (1 week ago)
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (1 week ago)
