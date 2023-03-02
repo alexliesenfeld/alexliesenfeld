@@ -36,7 +36,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [FuelLabs/fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM. (6 days ago)
+- [FuelLabs/fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM. (1 week ago)
 - [javorszky/go-responsewriter-lint](https://github.com/javorszky/go-responsewriter-lint) (1 week ago)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (1 week ago)
 - [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in golang (1 week ago)
