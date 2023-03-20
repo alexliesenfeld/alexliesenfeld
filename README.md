@@ -36,11 +36,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. (1 day ago)
+- [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. (2 days ago)
 - [FuelLabs/fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM. (3 weeks ago)
 - [javorszky/go-responsewriter-lint](https://github.com/javorszky/go-responsewriter-lint) (3 weeks ago)
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (4 weeks ago)
-- [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in golang (4 weeks ago)
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (1 month ago)
+- [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in golang (1 month ago)
 
 #### 💬 Feedback
 
