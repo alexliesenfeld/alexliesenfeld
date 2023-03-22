@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (1 month ago)
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (3 months ago)
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (4 months ago)
 - [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (6 months ago)
 
 #### 🌱 My latest projects
@@ -36,8 +36,8 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager (today)
-- [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. (3 days ago)
+- [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager (1 day ago)
+- [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. (4 days ago)
 - [FuelLabs/fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM. (3 weeks ago)
 - [javorszky/go-responsewriter-lint](https://github.com/javorszky/go-responsewriter-lint) (4 weeks ago)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (1 month ago)
