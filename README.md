@@ -36,10 +36,10 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager (1 day ago)
-- [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. (4 days ago)
-- [FuelLabs/fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM. (3 weeks ago)
-- [javorszky/go-responsewriter-lint](https://github.com/javorszky/go-responsewriter-lint) (4 weeks ago)
+- [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager (2 days ago)
+- [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. (5 days ago)
+- [FuelLabs/fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM. (4 weeks ago)
+- [javorszky/go-responsewriter-lint](https://github.com/javorszky/go-responsewriter-lint) (1 month ago)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (1 month ago)
 
 #### 💬 Feedback
