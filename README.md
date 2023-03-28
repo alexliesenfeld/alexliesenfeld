@@ -36,7 +36,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager (6 days ago)
+- [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager (1 week ago)
 - [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. (1 week ago)
 - [FuelLabs/fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM. (1 month ago)
 - [javorszky/go-responsewriter-lint](https://github.com/javorszky/go-responsewriter-lint) (1 month ago)
