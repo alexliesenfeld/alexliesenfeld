@@ -36,7 +36,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (5 days ago)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (6 days ago)
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager (1 month ago)
 - [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. (1 month ago)
 - [FuelLabs/fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM. (2 months ago)
