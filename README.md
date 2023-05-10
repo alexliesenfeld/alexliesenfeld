@@ -7,7 +7,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (today)
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (1 day ago)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (3 weeks ago)
 - [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (7 months ago)
 
@@ -37,7 +37,7 @@ Curious what I've been working on recently?
 #### ⭐ Recent stars
 
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (1 week ago)
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (2 weeks ago)
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (3 weeks ago)
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager (1 month ago)
 - [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. (1 month ago)
 - [FuelLabs/fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM. (2 months ago)
