@@ -7,8 +7,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (today)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (1 week ago)
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (2 weeks ago)
 - [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (8 months ago)
 
 #### 🌱 My latest projects
@@ -36,11 +36,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator (today)
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence (4 days ago)
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks (1 week ago)
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI &#43; Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend. (2 weeks ago)
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (3 weeks ago)
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go (1 month ago)
 
 #### 💬 Feedback
 
