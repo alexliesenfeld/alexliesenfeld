@@ -7,7 +7,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (3 days ago)
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (4 days ago)
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (4 weeks ago)
 - [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (9 months ago)
 
@@ -36,7 +36,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load Developer&#39;s Handbook (1 day ago)
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load Developer&#39;s Handbook (2 days ago)
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (1 week ago)
 - [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator (4 weeks ago)
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence (1 month ago)
