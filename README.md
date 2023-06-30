@@ -19,7 +19,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.7.0](https://github.com/alexliesenfeld/health/releases/tag/v0.7.0), 1 month ago) - A simple and flexible health check library for Go.
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.7.0](https://github.com/alexliesenfeld/health/releases/tag/v0.7.0), 2 months ago) - A simple and flexible health check library for Go.
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.7](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.7), 7 months ago) - HTTP mocking library for Rust.
 
 #### 🔨 Latest Pull Requests I published
@@ -36,7 +36,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (5 days ago)
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (6 days ago)
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load Developer&#39;s Handbook (1 week ago)
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (2 weeks ago)
 - [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator (1 month ago)
