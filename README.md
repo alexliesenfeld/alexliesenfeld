@@ -24,9 +24,9 @@ Curious what I've been working on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Upgrade dependencies](https://github.com/alexliesenfeld/httpmock/pull/86) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (today)
 - [add support for rustls](https://github.com/alexliesenfeld/httpmock/pull/72) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (5 months ago)
 - [Revert &#34;build: add support for rustls&#34;](https://github.com/alexliesenfeld/httpmock/pull/71) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (5 months ago)
-- [Pass through scope parameters](https://github.com/hipeople/govalidator/pull/4) on [hipeople/govalidator](https://github.com/hipeople/govalidator) (1 year ago)
 
 #### 📜 My recent blog posts
 
