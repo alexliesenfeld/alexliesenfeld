@@ -7,7 +7,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (today)
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (1 day ago)
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (1 month ago)
 - [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (9 months ago)
 
@@ -19,12 +19,12 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.8](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.8), today) - HTTP mocking library for Rust.
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.8](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.8), 1 day ago) - HTTP mocking library for Rust.
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.7.0](https://github.com/alexliesenfeld/health/releases/tag/v0.7.0), 2 months ago) - A simple and flexible health check library for Go.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Upgrade dependencies](https://github.com/alexliesenfeld/httpmock/pull/86) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (today)
+- [Upgrade dependencies](https://github.com/alexliesenfeld/httpmock/pull/86) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (1 day ago)
 - [add support for rustls](https://github.com/alexliesenfeld/httpmock/pull/72) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (5 months ago)
 - [Revert &#34;build: add support for rustls&#34;](https://github.com/alexliesenfeld/httpmock/pull/71) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (5 months ago)
 
@@ -37,8 +37,8 @@ Curious what I've been working on recently?
 #### ⭐ Recent stars
 
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (1 week ago)
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load Developer&#39;s Handbook (1 week ago)
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (2 weeks ago)
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load Developer&#39;s Handbook (2 weeks ago)
+- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (3 weeks ago)
 - [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor) - An OpenAPI client generator (1 month ago)
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence (1 month ago)
 
