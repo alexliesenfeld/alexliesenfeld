@@ -7,9 +7,9 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (6 days ago)
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (1 week ago)
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (1 month ago)
-- [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (9 months ago)
+- [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -19,12 +19,12 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.8](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.8), 6 days ago) - HTTP mocking library for Rust.
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.8](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.8), 1 week ago) - HTTP mocking library for Rust.
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.7.0](https://github.com/alexliesenfeld/health/releases/tag/v0.7.0), 2 months ago) - A simple and flexible health check library for Go.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Upgrade dependencies](https://github.com/alexliesenfeld/httpmock/pull/86) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (6 days ago)
+- [Upgrade dependencies](https://github.com/alexliesenfeld/httpmock/pull/86) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (1 week ago)
 - [add support for rustls](https://github.com/alexliesenfeld/httpmock/pull/72) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (5 months ago)
 - [Revert &#34;build: add support for rustls&#34;](https://github.com/alexliesenfeld/httpmock/pull/71) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (5 months ago)
 
