@@ -9,7 +9,6 @@ Curious what I've been working on recently?
 
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (3 days ago)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (2 months ago)
-- [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) - This is my website: www.alexliesenfeld.com (1 year ago)
 
 #### 🌱 My latest projects
 
