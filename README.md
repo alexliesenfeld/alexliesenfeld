@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (2 weeks ago)
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (2 months ago)
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,12 +18,12 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.8](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.8), 2 months ago) - HTTP mocking library for Rust.
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.6.8](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.6.8), 3 months ago) - HTTP mocking library for Rust.
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.7.0](https://github.com/alexliesenfeld/health/releases/tag/v0.7.0), 5 months ago) - A simple and flexible health check library for Go.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Upgrade dependencies](https://github.com/alexliesenfeld/httpmock/pull/86) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (2 months ago)
+- [Upgrade dependencies](https://github.com/alexliesenfeld/httpmock/pull/86) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (3 months ago)
 - [add support for rustls](https://github.com/alexliesenfeld/httpmock/pull/72) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (8 months ago)
 - [Revert &#34;build: add support for rustls&#34;](https://github.com/alexliesenfeld/httpmock/pull/71) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (8 months ago)
 
@@ -35,8 +35,8 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [manyminds/api2go](https://github.com/manyminds/api2go) - JSONAPI.org Implementation for Go (1 day ago)
-- [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability. (4 days ago)
+- [manyminds/api2go](https://github.com/manyminds/api2go) - JSONAPI.org Implementation for Go (2 days ago)
+- [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability. (5 days ago)
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs. (1 month ago)
 - [umutphp/famous-bugs](https://github.com/umutphp/famous-bugs) - Famous bugs fixed, problems solved and failures experienced  in software history :bug: :bee: :ant: :beetle: (2 months ago)
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (3 months ago)
