@@ -23,9 +23,9 @@ Curious what I've been working on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Remove http client](https://github.com/alexliesenfeld/httpmock/pull/90) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (today)
 - [Upgrade dependencies](https://github.com/alexliesenfeld/httpmock/pull/86) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (3 months ago)
 - [add support for rustls](https://github.com/alexliesenfeld/httpmock/pull/72) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (8 months ago)
-- [Revert &#34;build: add support for rustls&#34;](https://github.com/alexliesenfeld/httpmock/pull/71) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (8 months ago)
 
 #### 📜 My recent blog posts
 
