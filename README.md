@@ -35,7 +35,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [manyminds/api2go](https://github.com/manyminds/api2go) - JSONAPI.org Implementation for Go (1 week ago)
+- [manyminds/api2go](https://github.com/manyminds/api2go) - JSONAPI.org Implementation for Go (2 weeks ago)
 - [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability. (2 weeks ago)
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs. (1 month ago)
 - [umutphp/famous-bugs](https://github.com/umutphp/famous-bugs) - Famous bugs fixed, problems solved and failures experienced  in software history :bug: :bee: :ant: :beetle: (2 months ago)
