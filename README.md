@@ -18,8 +18,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.8.0](https://github.com/alexliesenfeld/health/releases/tag/v0.8.0), today) - A simple and flexible health check library for Go.
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0-rc.1](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0-rc.1), 2 days ago) - HTTP mocking library for Rust.
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.7.0](https://github.com/alexliesenfeld/health/releases/tag/v0.7.0), 5 months ago) - A simple and flexible health check library for Go.
 
 #### 🔨 Latest Pull Requests I published
 
