@@ -2,7 +2,7 @@
 
 I'm Alex, a software engineer working on backend with Go, previously Java, while also learning Rust.
 I'm an open-source enthusiast and the author of [httpmock](https://github.com/alexliesenfeld/httpmock),
-[health](https://github.com/alexliesenfeld/health) and [PumpStation](http://pumpstation-plugin.com). 
+[health](https://github.com/alexliesenfeld/health) and [PumpStation](https://alexliesenfeld.github.io/pumpstation/). 
 Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
