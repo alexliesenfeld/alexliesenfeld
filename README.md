@@ -36,11 +36,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (today)
 - [manyminds/api2go](https://github.com/manyminds/api2go) - JSONAPI.org Implementation for Go (2 weeks ago)
 - [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability. (2 weeks ago)
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs. (2 months ago)
 - [umutphp/famous-bugs](https://github.com/umutphp/famous-bugs) - Famous bugs fixed, problems solved and failures experienced  in software history :bug: :bee: :ant: :beetle: (2 months ago)
-- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (3 months ago)
 
 #### 💬 Feedback
 
