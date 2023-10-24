@@ -7,8 +7,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/pumpstation](https://github.com/alexliesenfeld/pumpstation) - PumpStation Audio Plugin Website (4 days ago)
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (6 days ago)
+- [alexliesenfeld/pumpstation](https://github.com/alexliesenfeld/pumpstation) - PumpStation Audio Plugin Website (5 days ago)
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (1 week ago)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (1 week ago)
 
 #### 🌱 My latest projects
@@ -19,7 +19,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.8.0](https://github.com/alexliesenfeld/health/releases/tag/v0.8.0), 6 days ago) - A simple and flexible health check library for Go.
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.8.0](https://github.com/alexliesenfeld/health/releases/tag/v0.8.0), 1 week ago) - A simple and flexible health check library for Go.
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0-rc.1](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0-rc.1), 1 week ago) - HTTP mocking library for Rust.
 
 #### 🔨 Latest Pull Requests I published
@@ -36,9 +36,9 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [flutomax/IPlugDesigner](https://github.com/flutomax/IPlugDesigner) - IPlug Designer Graphics and Code tool (2 days ago)
-- [arlyon/async-stripe](https://github.com/arlyon/async-stripe) - Async (and blocking!) Rust bindings for the Stripe API (4 days ago)
-- [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (5 days ago)
+- [flutomax/IPlugDesigner](https://github.com/flutomax/IPlugDesigner) - IPlug Designer Graphics and Code tool (3 days ago)
+- [arlyon/async-stripe](https://github.com/arlyon/async-stripe) - Async (and blocking!) Rust bindings for the Stripe API (5 days ago)
+- [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (6 days ago)
 - [manyminds/api2go](https://github.com/manyminds/api2go) - JSONAPI.org Implementation for Go (3 weeks ago)
 - [go-shiori/go-readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability. (3 weeks ago)
 
