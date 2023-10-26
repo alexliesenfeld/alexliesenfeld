@@ -7,7 +7,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/pumpstation](https://github.com/alexliesenfeld/pumpstation) - PumpStation Audio Plugin Website (6 days ago)
+- [alexliesenfeld/pumpstation](https://github.com/alexliesenfeld/pumpstation) - PumpStation Audio Plugin Website (1 week ago)
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (1 week ago)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (1 week ago)
 
@@ -36,9 +36,9 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (1 day ago)
-- [flutomax/IPlugDesigner](https://github.com/flutomax/IPlugDesigner) - IPlug Designer Graphics and Code tool (4 days ago)
-- [arlyon/async-stripe](https://github.com/arlyon/async-stripe) - Async (and blocking!) Rust bindings for the Stripe API (6 days ago)
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (2 days ago)
+- [flutomax/IPlugDesigner](https://github.com/flutomax/IPlugDesigner) - IPlug Designer Graphics and Code tool (5 days ago)
+- [arlyon/async-stripe](https://github.com/arlyon/async-stripe) - Async (and blocking!) Rust bindings for the Stripe API (1 week ago)
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (1 week ago)
 - [manyminds/api2go](https://github.com/manyminds/api2go) - JSONAPI.org Implementation for Go (3 weeks ago)
 
