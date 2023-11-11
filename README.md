@@ -36,10 +36,10 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [robbert-vdh/nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself (1 week ago)
+- [robbert-vdh/nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself (2 weeks ago)
 - [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda (2 weeks ago)
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (2 weeks ago)
-- [flutomax/IPlugDesigner](https://github.com/flutomax/IPlugDesigner) - IPlug Designer Graphics and Code tool (2 weeks ago)
+- [flutomax/IPlugDesigner](https://github.com/flutomax/IPlugDesigner) - IPlug Designer Graphics and Code tool (3 weeks ago)
 - [arlyon/async-stripe](https://github.com/arlyon/async-stripe) - Async (and blocking!) Rust bindings for the Stripe API (3 weeks ago)
 
 #### 💬 Feedback
