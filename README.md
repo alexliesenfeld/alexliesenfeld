@@ -36,7 +36,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [matcornic/hermes](https://github.com/matcornic/hermes) - Golang package that generates clean, responsive HTML e-mails for sending transactional mail (2 days ago)
+- [matcornic/hermes](https://github.com/matcornic/hermes) - Golang package that generates clean, responsive HTML e-mails for sending transactional mail (3 days ago)
 - [AgentOps-AI/BestGPTs](https://github.com/AgentOps-AI/BestGPTs) - Top ranked OpenAI GPTs (2 weeks ago)
 - [robbert-vdh/nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself (1 month ago)
 - [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda (1 month ago)
