@@ -36,11 +36,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [fergusstrange/embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test (today)
 - [javorszky/adventofcode2023](https://github.com/javorszky/adventofcode2023) (today)
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (1 day ago)
 - [matcornic/hermes](https://github.com/matcornic/hermes) - Golang package that generates clean, responsive HTML e-mails for sending transactional mail (5 days ago)
 - [AgentOps-AI/BestGPTs](https://github.com/AgentOps-AI/BestGPTs) - Top ranked OpenAI GPTs (2 weeks ago)
-- [robbert-vdh/nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself (1 month ago)
 
 #### 💬 Feedback
 
