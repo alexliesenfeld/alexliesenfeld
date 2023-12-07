@@ -36,10 +36,10 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (3 days ago)
-- [fergusstrange/embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test (4 days ago)
-- [javorszky/adventofcode2023](https://github.com/javorszky/adventofcode2023) (4 days ago)
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (5 days ago)
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (4 days ago)
+- [fergusstrange/embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test (5 days ago)
+- [javorszky/adventofcode2023](https://github.com/javorszky/adventofcode2023) (5 days ago)
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (6 days ago)
 - [matcornic/hermes](https://github.com/matcornic/hermes) - Golang package that generates clean, responsive HTML e-mails for sending transactional mail (1 week ago)
 
 #### 💬 Feedback
