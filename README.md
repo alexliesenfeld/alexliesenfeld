@@ -39,7 +39,7 @@ Curious what I've been working on recently?
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (1 week ago)
 - [fergusstrange/embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test (1 week ago)
 - [javorszky/adventofcode2023](https://github.com/javorszky/adventofcode2023) (1 week ago)
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (1 week ago)
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (2 weeks ago)
 - [matcornic/hermes](https://github.com/matcornic/hermes) - Golang package that generates clean, responsive HTML e-mails for sending transactional mail (2 weeks ago)
 
 #### 💬 Feedback
