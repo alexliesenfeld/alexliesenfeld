@@ -9,7 +9,7 @@ Curious what I've been working on recently?
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (3 weeks ago)
 - [alexliesenfeld/pumpstation](https://github.com/alexliesenfeld/pumpstation) - PumpStation Audio Plugin Website (1 month ago)
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (1 month ago)
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -19,7 +19,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.8.0](https://github.com/alexliesenfeld/health/releases/tag/v0.8.0), 1 month ago) - A simple and flexible health check library for Go.
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.8.0](https://github.com/alexliesenfeld/health/releases/tag/v0.8.0), 2 months ago) - A simple and flexible health check library for Go.
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0-rc.1](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0-rc.1), 2 months ago) - HTTP mocking library for Rust.
 
 #### 🔨 Latest Pull Requests I published
@@ -37,8 +37,8 @@ Curious what I've been working on recently?
 #### ⭐ Recent stars
 
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (1 week ago)
-- [fergusstrange/embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test (1 week ago)
-- [javorszky/adventofcode2023](https://github.com/javorszky/adventofcode2023) (1 week ago)
+- [fergusstrange/embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test (2 weeks ago)
+- [javorszky/adventofcode2023](https://github.com/javorszky/adventofcode2023) (2 weeks ago)
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (2 weeks ago)
 - [matcornic/hermes](https://github.com/matcornic/hermes) - Golang package that generates clean, responsive HTML e-mails for sending transactional mail (2 weeks ago)
 
