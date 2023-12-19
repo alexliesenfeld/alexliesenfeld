@@ -7,7 +7,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (4 weeks ago)
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (1 month ago)
 - [alexliesenfeld/pumpstation](https://github.com/alexliesenfeld/pumpstation) - PumpStation Audio Plugin Website (2 months ago)
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go. (2 months ago)
 
@@ -36,7 +36,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [vgarvardt/gue](https://github.com/vgarvardt/gue) - Golang queue on top of PostgreSQL (today)
+- [vgarvardt/gue](https://github.com/vgarvardt/gue) - Golang queue on top of PostgreSQL (1 day ago)
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (2 weeks ago)
 - [fergusstrange/embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test (2 weeks ago)
 - [javorszky/adventofcode2023](https://github.com/javorszky/adventofcode2023) (2 weeks ago)
