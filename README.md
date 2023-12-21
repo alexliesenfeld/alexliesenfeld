@@ -36,7 +36,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [vgarvardt/gue](https://github.com/vgarvardt/gue) - Golang queue on top of PostgreSQL (2 days ago)
+- [vgarvardt/gue](https://github.com/vgarvardt/gue) - Golang queue on top of PostgreSQL (3 days ago)
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (2 weeks ago)
 - [fergusstrange/embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test (2 weeks ago)
 - [javorszky/adventofcode2023](https://github.com/javorszky/adventofcode2023) (2 weeks ago)
