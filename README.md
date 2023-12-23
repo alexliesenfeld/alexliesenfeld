@@ -36,11 +36,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [vgarvardt/gue](https://github.com/vgarvardt/gue) - Golang queue on top of PostgreSQL (4 days ago)
+- [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server - configurable (1 day ago)
+- [vgarvardt/gue](https://github.com/vgarvardt/gue) - Golang queue on top of PostgreSQL (5 days ago)
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (2 weeks ago)
-- [fergusstrange/embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test (2 weeks ago)
-- [javorszky/adventofcode2023](https://github.com/javorszky/adventofcode2023) (2 weeks ago)
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (3 weeks ago)
+- [fergusstrange/embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test (3 weeks ago)
+- [javorszky/adventofcode2023](https://github.com/javorszky/adventofcode2023) (3 weeks ago)
 
 #### 💬 Feedback
 
