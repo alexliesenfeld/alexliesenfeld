@@ -36,11 +36,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [vgarvardt/pgx-google-uuid](https://github.com/vgarvardt/pgx-google-uuid) - Google UUID type support for pgx PostgreSQL driver (today)
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari (3 days ago)
 - [adbar/German-NLP](https://github.com/adbar/German-NLP) - Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German (3 days ago)
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP) (3 days ago)
 - [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server - configurable (4 days ago)
-- [vgarvardt/gue](https://github.com/vgarvardt/gue) - Golang queue on top of PostgreSQL (1 week ago)
 
 #### 💬 Feedback
 
