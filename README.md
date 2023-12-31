@@ -36,11 +36,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [twpayne/go-geom](https://github.com/twpayne/go-geom) - Package geom implements efficient geometry types for geospatial applications. (today)
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (1 day ago)
 - [vgarvardt/pgx-google-uuid](https://github.com/vgarvardt/pgx-google-uuid) - Google UUID type support for pgx PostgreSQL driver (5 days ago)
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari (1 week ago)
 - [adbar/German-NLP](https://github.com/adbar/German-NLP) - Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German (1 week ago)
-- [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP) (1 week ago)
 
 #### 💬 Feedback
 
