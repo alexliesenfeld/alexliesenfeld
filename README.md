@@ -19,7 +19,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.0](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.0), today) - An API client implementation for the OpenCage API
+- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), today) - An API client implementation for the OpenCage API
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.8.0](https://github.com/alexliesenfeld/health/releases/tag/v0.8.0), 2 months ago) - A simple and flexible health check library for Go.
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0-rc.1](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0-rc.1), 2 months ago) - HTTP mocking library for Rust.
 
