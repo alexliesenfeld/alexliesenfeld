@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (today)
-- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) - An API client implementation for the OpenCage API (4 days ago)
+- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) - An API client implementation for the OpenCage API (5 days ago)
 - [alexliesenfeld/pumpstation](https://github.com/alexliesenfeld/pumpstation) - PumpStation Audio Plugin Website (2 months ago)
 
 #### 🌱 My latest projects
@@ -19,9 +19,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 4 days ago) - An API client implementation for the OpenCage API
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0), 1 day ago) - HTTP mocking library for Rust.
+- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 5 days ago) - An API client implementation for the OpenCage API
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.8.0](https://github.com/alexliesenfeld/health/releases/tag/v0.8.0), 2 months ago) - A simple and flexible health check library for Go.
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0-rc.1](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0-rc.1), 2 months ago) - HTTP mocking library for Rust.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -37,11 +37,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (3 days ago)
-- [twpayne/go-geom](https://github.com/twpayne/go-geom) - Package geom implements efficient geometry types for geospatial applications. (5 days ago)
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (6 days ago)
+- [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (4 days ago)
+- [twpayne/go-geom](https://github.com/twpayne/go-geom) - Package geom implements efficient geometry types for geospatial applications. (6 days ago)
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (1 week ago)
 - [vgarvardt/pgx-google-uuid](https://github.com/vgarvardt/pgx-google-uuid) - Google UUID type support for pgx PostgreSQL driver (1 week ago)
-- [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari (1 week ago)
+- [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari (2 weeks ago)
 
 #### 💬 Feedback
 
