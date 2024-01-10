@@ -37,11 +37,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌 (today)
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust (4 days ago)
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (1 week ago)
 - [twpayne/go-geom](https://github.com/twpayne/go-geom) - Package geom implements efficient geometry types for geospatial applications. (1 week ago)
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (1 week ago)
-- [vgarvardt/pgx-google-uuid](https://github.com/vgarvardt/pgx-google-uuid) - Google UUID type support for pgx PostgreSQL driver (2 weeks ago)
 
 #### 💬 Feedback
 
