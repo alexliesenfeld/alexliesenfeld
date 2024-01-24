@@ -37,7 +37,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌 (1 week ago)
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌 (2 weeks ago)
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust (2 weeks ago)
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (3 weeks ago)
 - [twpayne/go-geom](https://github.com/twpayne/go-geom) - Package geom implements efficient geometry types for geospatial applications. (3 weeks ago)
