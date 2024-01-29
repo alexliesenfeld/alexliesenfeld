@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (3 weeks ago)
-- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) - An API client implementation for the OpenCage API (3 weeks ago)
+- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) - An API client implementation for the OpenCage API (4 weeks ago)
 - [alexliesenfeld/pumpstation](https://github.com/alexliesenfeld/pumpstation) - PumpStation Audio Plugin Website (3 months ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@ Curious what I've been working on recently?
 #### 🔭 Latest releases I've contributed to
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0), 3 weeks ago) - HTTP mocking library for Rust.
-- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 3 weeks ago) - An API client implementation for the OpenCage API
+- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 4 weeks ago) - An API client implementation for the OpenCage API
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.8.0](https://github.com/alexliesenfeld/health/releases/tag/v0.8.0), 3 months ago) - A simple and flexible health check library for Go.
 
 #### 🔨 Latest Pull Requests I published
@@ -37,7 +37,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [google/jsonapi](https://github.com/google/jsonapi) - jsonapi.org style payload serializer and deserializer (today)
+- [google/jsonapi](https://github.com/google/jsonapi) - jsonapi.org style payload serializer and deserializer (1 day ago)
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌 (2 weeks ago)
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust (3 weeks ago)
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (3 weeks ago)
