@@ -38,7 +38,7 @@ Curious what I've been working on recently?
 #### ⭐ Recent stars
 
 - [google/jsonapi](https://github.com/google/jsonapi) - jsonapi.org style payload serializer and deserializer (1 week ago)
-- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌 (4 weeks ago)
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌 (1 month ago)
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust (1 month ago)
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (1 month ago)
 - [twpayne/go-geom](https://github.com/twpayne/go-geom) - Package geom implements efficient geometry types for geospatial applications. (1 month ago)
