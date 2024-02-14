@@ -21,7 +21,7 @@ Curious what I've been working on recently?
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0), 1 month ago) - HTTP mocking library for Rust.
 - [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 1 month ago) - An API client implementation for the OpenCage API
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.8.0](https://github.com/alexliesenfeld/health/releases/tag/v0.8.0), 3 months ago) - A simple and flexible health check library for Go.
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.8.0](https://github.com/alexliesenfeld/health/releases/tag/v0.8.0), 4 months ago) - A simple and flexible health check library for Go.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -37,7 +37,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [faokunega/pg-embed](https://github.com/faokunega/pg-embed) - Run a Postgresql database locally on Linux, MacOS or Windows as part of another Rust application or test. (2 days ago)
+- [faokunega/pg-embed](https://github.com/faokunega/pg-embed) - Run a Postgresql database locally on Linux, MacOS or Windows as part of another Rust application or test. (3 days ago)
 - [google/jsonapi](https://github.com/google/jsonapi) - jsonapi.org style payload serializer and deserializer (2 weeks ago)
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌 (1 month ago)
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust (1 month ago)
