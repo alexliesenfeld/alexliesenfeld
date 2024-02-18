@@ -37,9 +37,9 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [Unstructured-IO/unstructured-api](https://github.com/Unstructured-IO/unstructured-api) (today)
-- [faokunega/pg-embed](https://github.com/faokunega/pg-embed) - Run a Postgresql database locally on Linux, MacOS or Windows as part of another Rust application or test. (6 days ago)
-- [google/jsonapi](https://github.com/google/jsonapi) - jsonapi.org style payload serializer and deserializer (2 weeks ago)
+- [Unstructured-IO/unstructured-api](https://github.com/Unstructured-IO/unstructured-api) (1 day ago)
+- [faokunega/pg-embed](https://github.com/faokunega/pg-embed) - Run a Postgresql database locally on Linux, MacOS or Windows as part of another Rust application or test. (1 week ago)
+- [google/jsonapi](https://github.com/google/jsonapi) - jsonapi.org style payload serializer and deserializer (3 weeks ago)
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌 (1 month ago)
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust (1 month ago)
 
