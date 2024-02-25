@@ -37,11 +37,11 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
+- [adrg/go-wkhtmltopdf](https://github.com/adrg/go-wkhtmltopdf) - Go bindings for wkhtmltopdf and high-level HTML to PDF conversion interface (today)
 - [sentriz/flagconf](https://github.com/sentriz/flagconf) - extensions to Go&#39;s flag package to support prefixed environment variables and a simple config file format (3 days ago)
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.  (1 week ago)
 - [Unstructured-IO/unstructured-api](https://github.com/Unstructured-IO/unstructured-api) (1 week ago)
 - [faokunega/pg-embed](https://github.com/faokunega/pg-embed) - Run a Postgresql database locally on Linux, MacOS or Windows as part of another Rust application or test. (2 weeks ago)
-- [google/jsonapi](https://github.com/google/jsonapi) - jsonapi.org style payload serializer and deserializer (4 weeks ago)
 
 #### 💬 Feedback
 
