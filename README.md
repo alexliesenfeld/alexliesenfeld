@@ -7,7 +7,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (2 days ago)
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (3 days ago)
 - [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) - Swagger UI for Go web applications (1 week ago)
 - [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) - An API client implementation for the OpenCage API (2 months ago)
 
@@ -38,7 +38,7 @@ Curious what I've been working on recently?
 #### ⭐ Recent stars
 
 - [adrg/go-wkhtmltopdf](https://github.com/adrg/go-wkhtmltopdf) - Go bindings for wkhtmltopdf and high-level HTML to PDF conversion interface (1 week ago)
-- [sentriz/flagconf](https://github.com/sentriz/flagconf) - extensions to Go&#39;s flag package to support prefixed environment variables and a simple config file format (1 week ago)
+- [sentriz/flagconf](https://github.com/sentriz/flagconf) - extensions to Go&#39;s flag package to support prefixed environment variables and a simple config file format (2 weeks ago)
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.  (2 weeks ago)
 - [Unstructured-IO/unstructured-api](https://github.com/Unstructured-IO/unstructured-api) (2 weeks ago)
 - [faokunega/pg-embed](https://github.com/faokunega/pg-embed) - Run a Postgresql database locally on Linux, MacOS or Windows as part of another Rust application or test. (3 weeks ago)
