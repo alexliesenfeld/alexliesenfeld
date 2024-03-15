@@ -7,8 +7,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (3 days ago)
-- [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) - Swagger UI for Go web applications (2 weeks ago)
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (4 days ago)
+- [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) - Swagger UI for Go web applications (3 weeks ago)
 - [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) - An API client implementation for the OpenCage API (2 months ago)
 
 #### 🌱 My latest projects
@@ -21,7 +21,7 @@ Curious what I've been working on recently?
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0), 2 months ago) - HTTP mocking library for Rust.
 - [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 2 months ago) - An API client implementation for the OpenCage API
-- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.8.0](https://github.com/alexliesenfeld/health/releases/tag/v0.8.0), 4 months ago) - A simple and flexible health check library for Go.
+- [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.8.0](https://github.com/alexliesenfeld/health/releases/tag/v0.8.0), 5 months ago) - A simple and flexible health check library for Go.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -37,7 +37,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [webern/cargo-readme](https://github.com/webern/cargo-readme) - Generate README.md from docstrings (6 days ago)
+- [webern/cargo-readme](https://github.com/webern/cargo-readme) - Generate README.md from docstrings (1 week ago)
 - [adrg/go-wkhtmltopdf](https://github.com/adrg/go-wkhtmltopdf) - Go bindings for wkhtmltopdf and high-level HTML to PDF conversion interface (2 weeks ago)
 - [sentriz/flagconf](https://github.com/sentriz/flagconf) - extensions to Go&#39;s flag package to support prefixed environment variables and a simple config file format (3 weeks ago)
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.  (3 weeks ago)
