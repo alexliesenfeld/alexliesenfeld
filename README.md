@@ -9,7 +9,7 @@ Curious what I've been working on recently?
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (2 weeks ago)
 - [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) - Swagger UI for Go web applications (1 month ago)
-- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) - An API client implementation for the OpenCage API (2 months ago)
+- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) - An API client implementation for the OpenCage API (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@ Curious what I've been working on recently?
 #### 🔭 Latest releases I've contributed to
 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0), 2 months ago) - HTTP mocking library for Rust.
-- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 2 months ago) - An API client implementation for the OpenCage API
+- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 3 months ago) - An API client implementation for the OpenCage API
 - [alexliesenfeld/health](https://github.com/alexliesenfeld/health) ([v0.8.0](https://github.com/alexliesenfeld/health/releases/tag/v0.8.0), 5 months ago) - A simple and flexible health check library for Go.
 
 #### 🔨 Latest Pull Requests I published
