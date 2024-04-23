@@ -9,7 +9,7 @@ Curious what I've been working on recently?
 
 - [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) - A library to simplify multi-protocol network service simulation on a single port. (4 weeks ago)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (1 month ago)
-- [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) - Swagger UI for Go web applications (1 month ago)
+- [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) - Swagger UI for Go web applications (2 months ago)
 
 #### 🌱 My latest projects
 
