@@ -25,7 +25,7 @@ Curious what I've been working on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [Upgrade hyper](https://github.com/alexliesenfeld/httpmock/pull/98) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (2 months ago)
+- [Upgrade hyper](https://github.com/alexliesenfeld/httpmock/pull/98) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (3 months ago)
 - [Remove http client](https://github.com/alexliesenfeld/httpmock/pull/91) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (6 months ago)
 - [Remove http client](https://github.com/alexliesenfeld/httpmock/pull/90) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (6 months ago)
 
@@ -37,8 +37,8 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (today)
-- [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars (2 days ago)
+- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (1 day ago)
+- [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars (3 days ago)
 - [webern/cargo-readme](https://github.com/webern/cargo-readme) - Generate README.md from docstrings (1 month ago)
 - [adrg/go-wkhtmltopdf](https://github.com/adrg/go-wkhtmltopdf) - Go bindings for wkhtmltopdf and high-level HTML to PDF conversion interface (2 months ago)
 - [sentriz/flagconf](https://github.com/sentriz/flagconf) - extensions to Go&#39;s flag package to support prefixed environment variables and a simple config file format (2 months ago)
