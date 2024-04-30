@@ -21,7 +21,7 @@ Curious what I've been working on recently?
 
 - [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) ([v0.1.0](https://github.com/alexliesenfeld/tls-detect-rs/releases/tag/v0.1.0), 2 weeks ago) - A library to simplify multi-protocol network service simulation on a single port.
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0), 3 months ago) - HTTP mocking library for Rust.
-- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 3 months ago) - An API client implementation for the OpenCage API
+- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 4 months ago) - An API client implementation for the OpenCage API
 
 #### 🔨 Latest Pull Requests I published
 
@@ -32,13 +32,13 @@ Curious what I've been working on recently?
 #### 📜 My recent blog posts
 
 - [CKAD Exercises - Part 2](https://alexliesenfeld.github.io/posts/ckad-excercises-2/) (2 years ago)
-- [CKAD Exercises - Part 1](https://alexliesenfeld.github.io/posts/ckad-excercises-1/) (2 years ago)
+- [CKAD Exercises - Part 1](https://alexliesenfeld.github.io/posts/ckad-excercises-1/) (3 years ago)
 - [Mocking HTTP Services in Rust](https://alexliesenfeld.github.io/posts/mocking-http--services-in-rust/) (4 years ago)
 
 #### ⭐ Recent stars
 
-- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (1 day ago)
-- [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars (3 days ago)
+- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (2 days ago)
+- [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars (4 days ago)
 - [webern/cargo-readme](https://github.com/webern/cargo-readme) - Generate README.md from docstrings (1 month ago)
 - [adrg/go-wkhtmltopdf](https://github.com/adrg/go-wkhtmltopdf) - Go bindings for wkhtmltopdf and high-level HTML to PDF conversion interface (2 months ago)
 - [sentriz/flagconf](https://github.com/sentriz/flagconf) - extensions to Go&#39;s flag package to support prefixed environment variables and a simple config file format (2 months ago)
