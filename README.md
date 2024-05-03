@@ -19,7 +19,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) ([v0.1.0](https://github.com/alexliesenfeld/tls-detect-rs/releases/tag/v0.1.0), 2 weeks ago) - A library to simplify multi-protocol network service simulation on a single port.
+- [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) ([v0.1.0](https://github.com/alexliesenfeld/tls-detect-rs/releases/tag/v0.1.0), 3 weeks ago) - A library to simplify multi-protocol network service simulation on a single port.
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0), 3 months ago) - HTTP mocking library for Rust.
 - [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 4 months ago) - An API client implementation for the OpenCage API
 
@@ -37,8 +37,8 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (4 days ago)
-- [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars (6 days ago)
+- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (5 days ago)
+- [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars (1 week ago)
 - [webern/cargo-readme](https://github.com/webern/cargo-readme) - Generate README.md from docstrings (1 month ago)
 - [adrg/go-wkhtmltopdf](https://github.com/adrg/go-wkhtmltopdf) - Go bindings for wkhtmltopdf and high-level HTML to PDF conversion interface (2 months ago)
 - [sentriz/flagconf](https://github.com/sentriz/flagconf) - extensions to Go&#39;s flag package to support prefixed environment variables and a simple config file format (2 months ago)
