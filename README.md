@@ -38,7 +38,7 @@ Curious what I've been working on recently?
 #### ⭐ Recent stars
 
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (2 weeks ago)
-- [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars (2 weeks ago)
+- [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars (3 weeks ago)
 - [webern/cargo-readme](https://github.com/webern/cargo-readme) - Generate README.md from docstrings (2 months ago)
 - [adrg/go-wkhtmltopdf](https://github.com/adrg/go-wkhtmltopdf) - Go bindings for wkhtmltopdf and high-level HTML to PDF conversion interface (2 months ago)
 - [sentriz/flagconf](https://github.com/sentriz/flagconf) - extensions to Go&#39;s flag package to support prefixed environment variables and a simple config file format (2 months ago)
