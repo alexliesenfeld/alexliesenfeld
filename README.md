@@ -37,7 +37,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (2 days ago)
+- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (3 days ago)
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (3 weeks ago)
 - [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars (3 weeks ago)
 - [webern/cargo-readme](https://github.com/webern/cargo-readme) - Generate README.md from docstrings (2 months ago)
