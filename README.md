@@ -25,7 +25,7 @@ Curious what I've been working on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [Upgrade hyper](https://github.com/alexliesenfeld/httpmock/pull/98) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (3 months ago)
+- [Upgrade hyper](https://github.com/alexliesenfeld/httpmock/pull/98) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (4 months ago)
 - [Remove http client](https://github.com/alexliesenfeld/httpmock/pull/91) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (7 months ago)
 - [Remove http client](https://github.com/alexliesenfeld/httpmock/pull/90) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (7 months ago)
 
@@ -37,7 +37,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [WebsiteBeaver/capacitor-document-scanner](https://github.com/WebsiteBeaver/capacitor-document-scanner) - A Capacitor document scanner plugin for Android and iOS (3 days ago)
+- [WebsiteBeaver/capacitor-document-scanner](https://github.com/WebsiteBeaver/capacitor-document-scanner) - A Capacitor document scanner plugin for Android and iOS (4 days ago)
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (1 week ago)
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (1 month ago)
 - [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars (1 month ago)
