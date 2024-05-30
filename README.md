@@ -7,7 +7,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (2 weeks ago)
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (3 weeks ago)
 - [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) - A library to simplify multi-protocol network service simulation on a single port. (2 months ago)
 - [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) - Swagger UI for Go web applications (3 months ago)
 
@@ -21,7 +21,7 @@ Curious what I've been working on recently?
 
 - [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) ([v0.1.0](https://github.com/alexliesenfeld/tls-detect-rs/releases/tag/v0.1.0), 1 month ago) - A library to simplify multi-protocol network service simulation on a single port.
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0), 4 months ago) - HTTP mocking library for Rust.
-- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 4 months ago) - An API client implementation for the OpenCage API
+- [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 5 months ago) - An API client implementation for the OpenCage API
 
 #### 🔨 Latest Pull Requests I published
 
@@ -37,7 +37,7 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [WebsiteBeaver/capacitor-document-scanner](https://github.com/WebsiteBeaver/capacitor-document-scanner) - A Capacitor document scanner plugin for Android and iOS (4 days ago)
+- [WebsiteBeaver/capacitor-document-scanner](https://github.com/WebsiteBeaver/capacitor-document-scanner) - A Capacitor document scanner plugin for Android and iOS (5 days ago)
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (1 week ago)
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (1 month ago)
 - [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars (1 month ago)
