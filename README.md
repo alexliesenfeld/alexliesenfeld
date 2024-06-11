@@ -19,15 +19,15 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) ([v0.1.0](https://github.com/alexliesenfeld/tls-detect-rs/releases/tag/v0.1.0), 1 month ago) - A library to simplify multi-protocol network service simulation on a single port.
+- [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) ([v0.1.0](https://github.com/alexliesenfeld/tls-detect-rs/releases/tag/v0.1.0), 2 months ago) - A library to simplify multi-protocol network service simulation on a single port.
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0), 5 months ago) - HTTP mocking library for Rust.
 - [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) ([v0.2.2](https://github.com/alexliesenfeld/opencage/releases/tag/v0.2.2), 5 months ago) - An API client implementation for the OpenCage API
 
 #### 🔨 Latest Pull Requests I published
 
 - [Upgrade hyper](https://github.com/alexliesenfeld/httpmock/pull/98) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (4 months ago)
-- [Remove http client](https://github.com/alexliesenfeld/httpmock/pull/91) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (7 months ago)
-- [Remove http client](https://github.com/alexliesenfeld/httpmock/pull/90) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (7 months ago)
+- [Remove http client](https://github.com/alexliesenfeld/httpmock/pull/91) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (8 months ago)
+- [Remove http client](https://github.com/alexliesenfeld/httpmock/pull/90) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (8 months ago)
 
 #### 📜 My recent blog posts
 
