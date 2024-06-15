@@ -38,7 +38,7 @@ Curious what I've been working on recently?
 #### ⭐ Recent stars
 
 - [martinkasa/capacitor-secure-storage-plugin](https://github.com/martinkasa/capacitor-secure-storage-plugin) - Capacitor plugin for storing string values securly on iOS and Android. (2 weeks ago)
-- [WebsiteBeaver/capacitor-document-scanner](https://github.com/WebsiteBeaver/capacitor-document-scanner) - A Capacitor document scanner plugin for Android and iOS (2 weeks ago)
+- [WebsiteBeaver/capacitor-document-scanner](https://github.com/WebsiteBeaver/capacitor-document-scanner) - A Capacitor document scanner plugin for Android and iOS (3 weeks ago)
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (4 weeks ago)
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks (1 month ago)
 - [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars (1 month ago)
