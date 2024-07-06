@@ -7,7 +7,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) - Swagger UI for Go web applications (5 days ago)
+- [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) - Swagger UI for Go web applications (6 days ago)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (1 month ago)
 - [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) - A library to simplify multi-protocol network service simulation on a single port. (3 months ago)
 
@@ -19,7 +19,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) ([v0.0.1-beta.5](https://github.com/alexliesenfeld/go-swagger-ui/releases/tag/v0.0.1-beta.5), 5 days ago) - Swagger UI for Go web applications
+- [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) ([v0.0.1-beta.5](https://github.com/alexliesenfeld/go-swagger-ui/releases/tag/v0.0.1-beta.5), 6 days ago) - Swagger UI for Go web applications
 - [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) ([v0.1.0](https://github.com/alexliesenfeld/tls-detect-rs/releases/tag/v0.1.0), 2 months ago) - A library to simplify multi-protocol network service simulation on a single port.
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0), 6 months ago) - HTTP mocking library for Rust.
 
@@ -39,7 +39,7 @@ Curious what I've been working on recently?
 
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (2 weeks ago)
 - [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript (2 weeks ago)
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨ (2 weeks ago)
+- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨ (3 weeks ago)
 - [martinkasa/capacitor-secure-storage-plugin](https://github.com/martinkasa/capacitor-secure-storage-plugin) - Capacitor plugin for storing string values securly on iOS and Android. (1 month ago)
 - [WebsiteBeaver/capacitor-document-scanner](https://github.com/WebsiteBeaver/capacitor-document-scanner) - A Capacitor document scanner plugin for Android and iOS (1 month ago)
 
