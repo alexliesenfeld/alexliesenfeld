@@ -37,10 +37,10 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [LukeMathWalker/biscotti](https://github.com/LukeMathWalker/biscotti) - A Rust library for managing HTTP cookies. (2 days ago)
+- [LukeMathWalker/biscotti](https://github.com/LukeMathWalker/biscotti) - A Rust library for managing HTTP cookies. (3 days ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (4 weeks ago)
 - [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript (4 weeks ago)
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨ (4 weeks ago)
+- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨ (1 month ago)
 - [martinkasa/capacitor-secure-storage-plugin](https://github.com/martinkasa/capacitor-secure-storage-plugin) - Capacitor plugin for storing string values securly on iOS and Android. (1 month ago)
 
 #### 💬 Feedback
