@@ -31,13 +31,13 @@ Curious what I've been working on recently?
 
 #### 📜 My recent blog posts
 
-- [CKAD Exercises - Part 2](https://alexliesenfeld.github.io/posts/ckad-excercises-2/) (2 years ago)
+- [CKAD Exercises - Part 2](https://alexliesenfeld.github.io/posts/ckad-excercises-2/) (3 years ago)
 - [CKAD Exercises - Part 1](https://alexliesenfeld.github.io/posts/ckad-excercises-1/) (3 years ago)
 - [Mocking HTTP Services in Rust](https://alexliesenfeld.github.io/posts/mocking-http--services-in-rust/) (4 years ago)
 
 #### ⭐ Recent stars
 
-- [LukeMathWalker/biscotti](https://github.com/LukeMathWalker/biscotti) - A Rust library for managing HTTP cookies. (4 days ago)
+- [LukeMathWalker/biscotti](https://github.com/LukeMathWalker/biscotti) - A Rust library for managing HTTP cookies. (5 days ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (1 month ago)
 - [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript (1 month ago)
 - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨ (1 month ago)
