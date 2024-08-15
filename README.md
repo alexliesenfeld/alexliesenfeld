@@ -41,7 +41,7 @@ Curious what I've been working on recently?
 - [anandadwirahma/go-config-encryption](https://github.com/anandadwirahma/go-config-encryption) (3 weeks ago)
 - [fraunhoferfokus/deckschrubber](https://github.com/fraunhoferfokus/deckschrubber) - Deckschrubber inspects images of a Docker Registry and removes those older than a given age. :high_brightness::ship: (3 weeks ago)
 - [LukeMathWalker/biscotti](https://github.com/LukeMathWalker/biscotti) - A Rust library for managing HTTP cookies. (1 month ago)
-- [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (1 month ago)
+- [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (2 months ago)
 
 #### 💬 Feedback
 
