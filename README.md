@@ -37,8 +37,8 @@ Curious what I've been working on recently?
 
 #### ⭐ Recent stars
 
-- [eeshugerman/postgres-backup-s3](https://github.com/eeshugerman/postgres-backup-s3) - A handy  Docker container to periodically backup PostgreSQL to S3 (4 weeks ago)
-- [anandadwirahma/go-config-encryption](https://github.com/anandadwirahma/go-config-encryption) (4 weeks ago)
+- [eeshugerman/postgres-backup-s3](https://github.com/eeshugerman/postgres-backup-s3) - A handy  Docker container to periodically backup PostgreSQL to S3 (1 month ago)
+- [anandadwirahma/go-config-encryption](https://github.com/anandadwirahma/go-config-encryption) (1 month ago)
 - [fraunhoferfokus/deckschrubber](https://github.com/fraunhoferfokus/deckschrubber) - Deckschrubber inspects images of a Docker Registry and removes those older than a given age. :high_brightness::ship: (1 month ago)
 - [LukeMathWalker/biscotti](https://github.com/LukeMathWalker/biscotti) - A Rust library for managing HTTP cookies. (1 month ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (2 months ago)
