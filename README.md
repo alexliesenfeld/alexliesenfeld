@@ -25,9 +25,9 @@ Curious what I've been working on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [v0.8.0 alpha](https://github.com/alexliesenfeld/httpmock/pull/109) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (today)
 - [Upgrade hyper](https://github.com/alexliesenfeld/httpmock/pull/98) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (7 months ago)
 - [Remove http client](https://github.com/alexliesenfeld/httpmock/pull/91) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (10 months ago)
-- [Remove http client](https://github.com/alexliesenfeld/httpmock/pull/90) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (10 months ago)
 
 #### 📜 My recent blog posts
 
