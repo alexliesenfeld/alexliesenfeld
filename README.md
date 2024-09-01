@@ -21,11 +21,11 @@ Curious what I've been working on recently?
 
 - [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) ([v0.0.1-beta.5](https://github.com/alexliesenfeld/go-swagger-ui/releases/tag/v0.0.1-beta.5), 2 months ago) - Swagger UI for Go web applications
 - [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) ([v0.1.0](https://github.com/alexliesenfeld/tls-detect-rs/releases/tag/v0.1.0), 4 months ago) - A library to simplify multi-protocol network service simulation on a single port.
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0), 7 months ago) - HTTP mocking library for Rust.
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0), 8 months ago) - HTTP mocking library for Rust.
 
 #### 🔨 Latest Pull Requests I published
 
-- [v0.8.0 alpha](https://github.com/alexliesenfeld/httpmock/pull/109) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (today)
+- [v0.8.0 alpha](https://github.com/alexliesenfeld/httpmock/pull/109) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (1 day ago)
 - [Upgrade hyper](https://github.com/alexliesenfeld/httpmock/pull/98) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (7 months ago)
 - [Remove http client](https://github.com/alexliesenfeld/httpmock/pull/91) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (10 months ago)
 
