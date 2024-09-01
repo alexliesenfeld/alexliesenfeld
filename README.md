@@ -19,9 +19,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.8.0-alpha.1](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.8.0-alpha.1), today) - HTTP mocking library for Rust.
 - [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) ([v0.0.1-beta.5](https://github.com/alexliesenfeld/go-swagger-ui/releases/tag/v0.0.1-beta.5), 2 months ago) - Swagger UI for Go web applications
 - [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) ([v0.1.0](https://github.com/alexliesenfeld/tls-detect-rs/releases/tag/v0.1.0), 4 months ago) - A library to simplify multi-protocol network service simulation on a single port.
-- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.7.0](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.7.0), 8 months ago) - HTTP mocking library for Rust.
 
 #### 🔨 Latest Pull Requests I published
 
