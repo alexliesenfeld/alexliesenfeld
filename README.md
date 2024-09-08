@@ -7,9 +7,9 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [alexliesenfeld/async-object-pool](https://github.com/alexliesenfeld/async-object-pool) - A simple object pool implementation that uses asynchronous synchronization primitives only.  (today)
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust. (3 days ago)
 - [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) - Swagger UI for Go web applications (2 months ago)
-- [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) - A library to simplify multi-protocol network service simulation on a single port. (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -19,9 +19,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [alexliesenfeld/async-object-pool](https://github.com/alexliesenfeld/async-object-pool) ([v0.1.5](https://github.com/alexliesenfeld/async-object-pool/releases/tag/v0.1.5), today) - A simple object pool implementation that uses asynchronous synchronization primitives only. 
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.8.0-alpha.1](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.8.0-alpha.1), 1 week ago) - HTTP mocking library for Rust.
 - [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) ([v0.0.1-beta.5](https://github.com/alexliesenfeld/go-swagger-ui/releases/tag/v0.0.1-beta.5), 2 months ago) - Swagger UI for Go web applications
-- [alexliesenfeld/tls-detect-rs](https://github.com/alexliesenfeld/tls-detect-rs) ([v0.1.0](https://github.com/alexliesenfeld/tls-detect-rs/releases/tag/v0.1.0), 4 months ago) - A library to simplify multi-protocol network service simulation on a single port.
 
 #### 🔨 Latest Pull Requests I published
 
