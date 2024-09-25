@@ -17,13 +17,11 @@ Curious what I've been working on recently?
 - [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) - Swagger UI for Go web applications
 - [alexliesenfeld/opencage](https://github.com/alexliesenfeld/opencage) - An API client implementation for the OpenCage API
 
-#### ⭐ Recent stars
+#### 🔭 Latest releases I've contributed to
 
-- [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments. (3 weeks ago)
-- [eeshugerman/postgres-backup-s3](https://github.com/eeshugerman/postgres-backup-s3) - A handy  Docker container to periodically backup PostgreSQL to S3 (2 months ago)
-- [anandadwirahma/go-config-encryption](https://github.com/anandadwirahma/go-config-encryption) (2 months ago)
-- [fraunhoferfokus/deckschrubber](https://github.com/fraunhoferfokus/deckschrubber) - Deckschrubber inspects images of a Docker Registry and removes those older than a given age. :high_brightness::ship: (2 months ago)
-- [LukeMathWalker/biscotti](https://github.com/LukeMathWalker/biscotti) - A Rust library for managing HTTP cookies. (2 months ago)
+- [alexliesenfeld/async-object-pool](https://github.com/alexliesenfeld/async-object-pool) ([v0.1.5](https://github.com/alexliesenfeld/async-object-pool/releases/tag/v0.1.5), 2 weeks ago) - A simple object pool implementation that uses asynchronous synchronization primitives only. 
+- [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.8.0-alpha.1](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.8.0-alpha.1), 3 weeks ago) - HTTP mocking library for Rust
+- [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) ([v0.0.1-beta.5](https://github.com/alexliesenfeld/go-swagger-ui/releases/tag/v0.0.1-beta.5), 2 months ago) - Swagger UI for Go web applications
 
 #### 💬 Feedback
 
