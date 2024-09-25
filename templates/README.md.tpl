@@ -20,11 +20,6 @@ Curious what I've been working on recently?
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-#### ⭐ Recent stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
-{{- end }}
-
 #### 💬 Feedback
 
 If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
