@@ -23,12 +23,6 @@ Curious what I've been working on recently?
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.8.0-alpha.1](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.8.0-alpha.1), 3 weeks ago) - HTTP mocking library for Rust
 - [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) ([v0.0.1-beta.5](https://github.com/alexliesenfeld/go-swagger-ui/releases/tag/v0.0.1-beta.5), 2 months ago) - Swagger UI for Go web applications
 
-#### 🔨 Latest Pull Requests I published
-
-- [Switch to Astro](https://github.com/alexliesenfeld/alexliesenfeld.github.io/pull/1) on [alexliesenfeld/alexliesenfeld.github.io](https://github.com/alexliesenfeld/alexliesenfeld.github.io) (today)
-- [v0.8.0 alpha](https://github.com/alexliesenfeld/httpmock/pull/109) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (3 weeks ago)
-- [Upgrade hyper](https://github.com/alexliesenfeld/httpmock/pull/98) on [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) (7 months ago)
-
 #### ⭐ Recent stars
 
 - [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments. (3 weeks ago)
@@ -41,9 +35,3 @@ Curious what I've been working on recently?
 
 If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
 and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/alexliesenfeld
-- LinkedIn: https://www.linkedin.com/in/alexander-liesenfeld
-- Blog: https://www.alexliesenfeld.com
