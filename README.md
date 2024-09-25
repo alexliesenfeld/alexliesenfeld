@@ -23,14 +23,6 @@ Curious what I've been working on recently?
 - [alexliesenfeld/httpmock](https://github.com/alexliesenfeld/httpmock) ([v0.8.0-alpha.1](https://github.com/alexliesenfeld/httpmock/releases/tag/v0.8.0-alpha.1), 3 weeks ago) - HTTP mocking library for Rust
 - [alexliesenfeld/go-swagger-ui](https://github.com/alexliesenfeld/go-swagger-ui) ([v0.0.1-beta.5](https://github.com/alexliesenfeld/go-swagger-ui/releases/tag/v0.0.1-beta.5), 2 months ago) - Swagger UI for Go web applications
 
-#### ⭐ Recent stars
-
-- [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments. (3 weeks ago)
-- [eeshugerman/postgres-backup-s3](https://github.com/eeshugerman/postgres-backup-s3) - A handy  Docker container to periodically backup PostgreSQL to S3 (2 months ago)
-- [anandadwirahma/go-config-encryption](https://github.com/anandadwirahma/go-config-encryption) (2 months ago)
-- [fraunhoferfokus/deckschrubber](https://github.com/fraunhoferfokus/deckschrubber) - Deckschrubber inspects images of a Docker Registry and removes those older than a given age. :high_brightness::ship: (2 months ago)
-- [LukeMathWalker/biscotti](https://github.com/LukeMathWalker/biscotti) - A Rust library for managing HTTP cookies. (2 months ago)
-
 #### 💬 Feedback
 
 If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
