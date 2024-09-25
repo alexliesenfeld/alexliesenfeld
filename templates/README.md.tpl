@@ -15,10 +15,10 @@ Curious what I've been working on recently?
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-#### ⭐ Recent stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
-{{- end }}
+#### 🔭 Latest releases I've contributed to
+{{range recentReleases 3}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
+{{- end}}
 
 #### 💬 Feedback
 
