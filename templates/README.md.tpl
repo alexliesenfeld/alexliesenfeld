@@ -20,11 +20,6 @@ Curious what I've been working on recently?
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-#### 🔨 Latest Pull Requests I published
-{{range recentPullRequests 3}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 #### ⭐ Recent stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
@@ -34,9 +29,3 @@ Curious what I've been working on recently?
 
 If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
 and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/alexliesenfeld
-- LinkedIn: https://www.linkedin.com/in/alexander-liesenfeld
-- Blog: https://www.alexliesenfeld.com
